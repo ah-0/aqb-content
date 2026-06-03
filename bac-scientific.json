@@ -1,0 +1,42 @@
+{
+  "math": {
+    "title": "الرياضيات",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "physics": {
+    "title": "الفيزياء",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "chemistry": {
+    "title": "الكيمياء",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "biology": {
+    "title": "علم الأحياء",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "arabic": {
+    "title": "اللغة العربية",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "english": {
+    "title": "اللغة الإنجليزية",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "french": {
+    "title": "اللغة الفرنسية",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "islamic": {
+    "title": "التربية الإسلامية",
+    "pages": 0,
+    "baseUrl": ""
+  }
+}
