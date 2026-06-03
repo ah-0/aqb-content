@@ -16,8 +16,8 @@
   },
   "biology": {
     "title": "علم الأحياء",
-    "pages": 0,
-    "baseUrl": ""
+    "pages": 1,
+    "baseUrl": "https://ah-0.github.io/aqb-content/images/bac-scientific/Science-subject"
   },
   "arabic": {
     "title": "اللغة العربية",
