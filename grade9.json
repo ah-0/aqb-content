@@ -1,0 +1,37 @@
+{
+  "math": {
+    "title": "الرياضيات",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "science": {
+    "title": "العلوم العامة",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "arabic": {
+    "title": "اللغة العربية",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "english": {
+    "title": "اللغة الإنجليزية",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "social": {
+    "title": "الدراسات الاجتماعية",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "islamic": {
+    "title": "التربية الإسلامية",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "science_computer": {
+    "title": "المعلوماتية",
+    "pages": 0,
+    "baseUrl": ""
+  }
+}
