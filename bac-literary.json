@@ -1,0 +1,42 @@
+{
+  "arabic": {
+    "title": "اللغة العربية",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "history": {
+    "title": "التاريخ",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "geography": {
+    "title": "الجغرافيا",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "philosophy": {
+    "title": "الفلسفة",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "english": {
+    "title": "اللغة الإنجليزية",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "french": {
+    "title": "اللغة الفرنسية",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "islamic": {
+    "title": "التربية الإسلامية",
+    "pages": 0,
+    "baseUrl": ""
+  },
+  "sociology": {
+    "title": "علم الاجتماع",
+    "pages": 0,
+    "baseUrl": ""
+  }
+}
