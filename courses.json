@@ -1,0 +1,71 @@
+{
+  "idlib": [
+    {
+      "id": "cey",
+      "name": "اسئلة دورات الكيمياء",
+      "url": "https://drive.google.com/drive/folders/1aUWVLF_VeBnCdEmKNzhhvgLkyI48x8bP"
+    },
+    {
+      "id": "phy",
+      "name": "اسئلة دورات الفيزياء",
+      "url": "https://drive.google.com/drive/folders/1rZ0IQuRIGbqsBt221_OqQ2Luy8hoEFOu"
+    },
+    {
+      "id": "bey",
+      "name": "اسئلة دورات العلوم",
+      "url": "https://drive.google.com/drive/folders/1VK-hTRpROvjI9V8dfbdZCjPhUBO8q4VO"
+    },
+    {
+      "id": "ara",
+      "name": "اسئلة دورات العربي",
+      "url": "https://drive.google.com/drive/folders/1x_eO_WmUDPsOFhe3g4PkpjxzzHk5awGq"
+    },
+    {
+      "id": "math",
+      "name": "اسئلة دورات الرياضيات",
+      "url": "https://drive.google.com/drive/folders/1se5xM8hMN68bfWNW5uutxznwKGvAQ9ev"
+    },
+    {
+      "id": "reg",
+      "name": "اسئلة دورات الديانة",
+      "url": "https://drive.google.com/drive/folders/14w9Gxc6_8aV4-wHsdhJEkTyzati9irkJ"
+    },
+    {
+      "id": "ing",
+      "name": "اسئلة دورات الإنكليزي",
+      "url": "https://drive.google.com/drive/folders/15R7-LyleyHLdmcimWpg_ILQI374MQMTN"
+    }
+  ],
+  "mgalis": [
+    {
+      "id": "2019",
+      "name": "دورات مجالس 2019",
+      "url": "https://drive.google.com/drive/folders/19eoe8vBMcIZI-WdyfnISHAx_Hpt-dXh9"
+    },
+    {
+      "id": "2020",
+      "name": "دورات مجالس 2020",
+      "url": "https://drive.google.com/drive/folders/19e8AZAIMQkxjlzmPRzB1N6maaBPz_uJ1"
+    },
+    {
+      "id": "2022",
+      "name": "دورات مجالس 2022",
+      "url": "https://drive.google.com/drive/folders/19l5wnUfYh0AdGuZaImY-SdroiRIxOMfv"
+    },
+    {
+      "id": "2023",
+      "name": "دورات مجالس 2023",
+      "url": "https://drive.google.com/drive/folders/19vfUPcBtieWVyIyj1e784x1vGUX4uy0S"
+    },
+    {
+      "id": "2024",
+      "name": "دورات مجالس 2024",
+      "url": "https://drive.google.com/drive/folders/19vjpHycVicEFMD2UmefTj8H9kHU34sFH"
+    },
+    {
+      "id": "2025",
+      "name": "دورات مجالس 2025",
+      "url": "https://drive.google.com/drive/folders/19x1t6eq3MGdmQE4HcK_SHJ08FCQPU2Mg"
+    }
+  ]
+}

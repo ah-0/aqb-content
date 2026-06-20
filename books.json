@@ -1,0 +1,81 @@
+{
+  "scientific": [
+    {
+      "id": "physics",
+      "name": "الفيزياء",
+      "url": "https://drive.google.com/drive/folders/1RTDe9JkTjFYSSYTo9lclW6jVg6LZrtIE"
+    },
+    {
+      "id": "chemistry",
+      "name": "الكيمياء",
+      "url": "https://drive.google.com/drive/folders/1_jA0O338heAAXP9G6SgFWOqB5rGNa_RC"
+    },
+    {
+      "id": "math",
+      "name": "الرياضيات",
+      "url": "https://drive.google.com/drive/folders/1agvEdlUtSJ9J4gIC5o8jwFDj-3AXeD_q"
+    },
+    {
+      "id": "science",
+      "name": "العلوم",
+      "url": "https://drive.google.com/drive/folders/14dK2wzhcJ7jSMeYDTzupwwKJcbrDwmhq"
+    },
+    {
+      "id": "arabic",
+      "name": "اللغة العربية",
+      "url": "https://drive.google.com/drive/folders/1XxJwf7EQ2382gq-mp67vujDL7AoMw7r_"
+    },
+    {
+      "id": "english",
+      "name": "اللغة الإنكليزية",
+      "url": "https://drive.google.com/drive/folders/1OVepNpJ0h1Dac2OvfSfvEDWFhmlbk0Yv"
+    },
+    {
+      "id": "religion",
+      "name": "الديانة",
+      "url": "https://drive.google.com/drive/folders/1v2RRBCd_UNRlvWwz-aBIAW5RBm2pMRmD"
+    },
+    {
+      "id": "turk",
+      "name": "اللغة التركية",
+      "url": "https://drive.google.com/drive/folders/1chcMfOGbs9o2x_25RiCyhiZyS5k9ArUF"
+    }
+  ],
+  "literary": [
+    {
+      "id": "geo",
+      "name": "الجغرافيا",
+      "url": "https://drive.google.com/drive/folders/1M9iJo6w55TOMkF27AgqAHogF1sjmk9sk"
+    },
+    {
+      "id": "history",
+      "name": "التاريخ",
+      "url": "https://drive.google.com/drive/folders/1hQ1Fo6FxCICgZwwDHERu6FZ2HtTQ0VXF"
+    },
+    {
+      "id": "arabic",
+      "name": "اللغة العربية",
+      "url": "https://drive.google.com/drive/folders/1LUXZGUippN-yehrESRhOcIZVIGjYD_Sf"
+    },
+    {
+      "id": "english",
+      "name": "اللغة الإنكليزية",
+      "url": "https://drive.google.com/drive/folders/1VgH54Gvlln0uxl3fTerhw1An3qyM5knY"
+    },
+    {
+      "id": "philosophy",
+      "name": "الفلسفة",
+      "url": "https://drive.google.com/drive/folders/1Ga6itqe3oDNHgj-EXu9PMgIzYtQ5zMj6"
+    },
+    {
+      "id": "religion",
+      "name": "الديانة",
+      "url": "https://drive.google.com/drive/folders/1v2RRBCd_UNRlvWwz-aBIAW5RBm2pMRmD"
+    },
+    {
+      "id": "turk",
+      "name": "اللغة التركية",
+      "url": "https://drive.google.com/drive/folders/1chcMfOGbs9o2x_25RiCyhiZyS5k9ArUF"
+    }
+  ]
+}
