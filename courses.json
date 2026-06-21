@@ -1,5 +1,5 @@
 {
-  "idlib": [
+  "items": [
     {
       "id": "cey",
       "name": "اسئلة دورات الكيمياء",
@@ -34,36 +34,34 @@
       "id": "ing",
       "name": "اسئلة دورات الإنكليزي",
       "url": "https://drive.google.com/drive/folders/15R7-LyleyHLdmcimWpg_ILQI374MQMTN"
-    }
-  ],
-  "mgalis": [
+    },
     {
-      "id": "2019",
+      "id": "mgalis_2019",
       "name": "دورات مجالس 2019",
       "url": "https://drive.google.com/drive/folders/19eoe8vBMcIZI-WdyfnISHAx_Hpt-dXh9"
     },
     {
-      "id": "2020",
+      "id": "mgalis_2020",
       "name": "دورات مجالس 2020",
       "url": "https://drive.google.com/drive/folders/19e8AZAIMQkxjlzmPRzB1N6maaBPz_uJ1"
     },
     {
-      "id": "2022",
+      "id": "mgalis_2022",
       "name": "دورات مجالس 2022",
       "url": "https://drive.google.com/drive/folders/19l5wnUfYh0AdGuZaImY-SdroiRIxOMfv"
     },
     {
-      "id": "2023",
+      "id": "mgalis_2023",
       "name": "دورات مجالس 2023",
       "url": "https://drive.google.com/drive/folders/19vfUPcBtieWVyIyj1e784x1vGUX4uy0S"
     },
     {
-      "id": "2024",
+      "id": "mgalis_2024",
       "name": "دورات مجالس 2024",
       "url": "https://drive.google.com/drive/folders/19vjpHycVicEFMD2UmefTj8H9kHU34sFH"
     },
     {
-      "id": "2025",
+      "id": "mgalis_2025",
       "name": "دورات مجالس 2025",
       "url": "https://drive.google.com/drive/folders/19x1t6eq3MGdmQE4HcK_SHJ08FCQPU2Mg"
     }
