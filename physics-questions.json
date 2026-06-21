@@ -1,101 +1,75 @@
 [
   {
-    "id": "physics",
-    "name": "الفيزياء",
-    "lessons": [
+    "lessonId": "physics-mechanics",
+    "lessonName": "الميكانيكا — الحركة والقوة",
+    "questions": [
       {
-        "id": "physics-mechanics",
-        "name": "الميكانيكا — الحركة والقوة",
-        "questions": [
-          {
-            "id": "ph-m-1",
-            "question": "ما وحدة قياس القوة في النظام الدولي (SI)؟",
-            "options": ["نيوتن (N)", "جول (J)", "واط (W)", "باسكال (Pa)"],
-            "correctAnswer": 0,
-            "explanation": "وحدة القوة في النظام الدولي هي النيوتن (N)، وتعادل kg·m/s²"
-          },
-          {
-            "id": "ph-m-2",
-            "question": "جسم يتحرك بتسارع ثابت 4 m/s² من سرعة ابتدائية 2 m/s، ما سرعته بعد 3 ثوانٍ؟",
-            "options": ["14 m/s", "12 m/s", "10 m/s", "8 m/s"],
-            "correctAnswer": 0,
-            "explanation": "v = v₀ + at = 2 + (4×3) = 14 m/s"
-          },
-          {
-            "id": "ph-m-3",
-            "question": "قانون نيوتن الثاني للحركة هو:",
-            "options": ["F = ma", "F = mv", "F = m/a", "F = mv²"],
-            "correctAnswer": 0,
-            "explanation": "القانون الثاني لنيوتن: القوة المحصّلة تساوي حاصل ضرب الكتلة في التسارع F = ma"
-          }
-        ]
+        "id": 1,
+        "question": "ما وحدة قياس القوة في النظام الدولي (SI)؟",
+        "correctAnswer": "وحدة القوة في النظام الدولي هي النيوتن (N)، وتعادل kg·m/s²."
       },
       {
-        "id": "physics-energy",
-        "name": "الطاقة والشغل",
-        "questions": [
-          {
-            "id": "ph-e-1",
-            "question": "ما وحدة قياس الطاقة والشغل في النظام الدولي؟",
-            "options": ["جول (J)", "نيوتن (N)", "واط (W)", "كيلوغرام (kg)"],
-            "correctAnswer": 0,
-            "explanation": "وحدة الطاقة والشغل هي الجول (J)، وتعادل N·m"
-          },
-          {
-            "id": "ph-e-2",
-            "question": "جسم كتلته 2 kg على ارتفاع 5 m عن الأرض، ما طاقته الكامنة؟ (g = 10 m/s²)",
-            "options": ["100 J", "50 J", "200 J", "25 J"],
-            "correctAnswer": 0,
-            "explanation": "Ep = mgh = 2 × 10 × 5 = 100 J"
-          },
-          {
-            "id": "ph-e-3",
-            "question": "القدرة (Power) هي:",
-            "options": ["الشغل مقسوماً على الزمن", "الشغل مضروباً في الزمن", "القوة مقسومة على المسافة", "القوة مضروبة في الزمن"],
-            "correctAnswer": 0,
-            "explanation": "القدرة = الشغل ÷ الزمن، P = W/t، وتقاس بالواط (W)"
-          }
-        ]
+        "id": 2,
+        "question": "جسم يتحرك بتسارع ثابت 4 m/s² من سرعة ابتدائية 2 m/s، ما سرعته بعد 3 ثوانٍ؟",
+        "correctAnswer": "v = v₀ + at = 2 + (4×3) = 14 m/s."
       },
       {
-        "id": "physics-waves",
-        "name": "الموجات والصوت",
-        "questions": [
-          {
-            "id": "ph-w-1",
-            "question": "ما سرعة الضوء في الفراغ تقريباً؟",
-            "options": ["3 × 10⁸ m/s", "3 × 10⁶ m/s", "3 × 10¹⁰ m/s", "3 × 10⁴ m/s"],
-            "correctAnswer": 0,
-            "explanation": "سرعة الضوء في الفراغ c ≈ 3 × 10⁸ m/s"
-          },
-          {
-            "id": "ph-w-2",
-            "question": "العلاقة بين التردد والطول الموجي وسرعة الموجة هي:",
-            "options": ["v = f × λ", "v = f ÷ λ", "v = f + λ", "v = f² × λ"],
-            "correctAnswer": 0,
-            "explanation": "سرعة الموجة = التردد × الطول الموجي: v = f × λ"
-          }
-        ]
+        "id": 3,
+        "question": "ما نص قانون نيوتن الثاني للحركة؟",
+        "correctAnswer": "القانون الثاني لنيوتن: القوة المحصّلة تساوي حاصل ضرب الكتلة في التسارع: F = ma."
+      }
+    ]
+  },
+  {
+    "lessonId": "physics-energy",
+    "lessonName": "الطاقة والشغل",
+    "questions": [
+      {
+        "id": 1,
+        "question": "ما وحدة قياس الطاقة والشغل في النظام الدولي؟",
+        "correctAnswer": "وحدة الطاقة والشغل هي الجول (J)، وتعادل N·m."
       },
       {
-        "id": "physics-electricity",
-        "name": "الكهرباء والمغناطيسية",
-        "questions": [
-          {
-            "id": "ph-el-1",
-            "question": "ما قانون أوم؟",
-            "options": ["V = I × R", "V = I + R", "V = I ÷ R", "V = I² × R"],
-            "correctAnswer": 0,
-            "explanation": "قانون أوم: الجهد = التيار × المقاومة، V = I × R"
-          },
-          {
-            "id": "ph-el-2",
-            "question": "وحدة قياس المقاومة الكهربائية هي:",
-            "options": ["أوم (Ω)", "فولت (V)", "أمبير (A)", "فاراد (F)"],
-            "correctAnswer": 0,
-            "explanation": "المقاومة الكهربائية تقاس بالأوم (Ω)"
-          }
-        ]
+        "id": 2,
+        "question": "جسم كتلته 2 kg على ارتفاع 5 m عن الأرض، ما طاقته الكامنة؟ (g = 10 m/s²)",
+        "correctAnswer": "Ep = mgh = 2 × 10 × 5 = 100 J."
+      },
+      {
+        "id": 3,
+        "question": "ما تعريف القدرة (Power) وما وحدتها؟",
+        "correctAnswer": "القدرة هي الشغل المنجز في وحدة الزمن: P = W/t، وتقاس بالواط (W)."
+      }
+    ]
+  },
+  {
+    "lessonId": "physics-waves",
+    "lessonName": "الموجات والصوت",
+    "questions": [
+      {
+        "id": 1,
+        "question": "ما سرعة الضوء في الفراغ تقريباً؟",
+        "correctAnswer": "سرعة الضوء في الفراغ c ≈ 3 × 10⁸ m/s."
+      },
+      {
+        "id": 2,
+        "question": "ما العلاقة بين التردد والطول الموجي وسرعة الموجة؟",
+        "correctAnswer": "سرعة الموجة = التردد × الطول الموجي: v = f × λ."
+      }
+    ]
+  },
+  {
+    "lessonId": "physics-electricity",
+    "lessonName": "الكهرباء والمغناطيسية",
+    "questions": [
+      {
+        "id": 1,
+        "question": "ما نص قانون أوم؟",
+        "correctAnswer": "قانون أوم: الجهد = التيار × المقاومة، V = I × R."
+      },
+      {
+        "id": 2,
+        "question": "ما وحدة قياس المقاومة الكهربائية؟",
+        "correctAnswer": "المقاومة الكهربائية تقاس بالأوم (Ω)."
       }
     ]
   }
