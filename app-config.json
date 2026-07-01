@@ -1,3 +1,10 @@
 {
-  "app_download_url": "https://aqb-beta.vercel.app/"
+  "app_download_url": "https://aqb-beta.vercel.app/",
+  "latest_version": "1.2.0",
+  "force_update": false,
+  "whats_new": [
+    "ظهور أسئلة مادة العلوم في الاختبارات الإلكترونية",
+    "تحسين سرعة تحميل الأسئلة والدروس",
+    "تحديثات على واجهة المستخدم وإصلاح أخطاء"
+  ]
 }
