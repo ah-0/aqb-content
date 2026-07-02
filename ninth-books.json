@@ -28,5 +28,15 @@
     "id": "geo",
     "name": "اجتماعيات",
     "url": "https://drive.google.com/drive/folders/14OPy2jSswJ21im66HNG5KpsLHxpFLcZP"
+  },
+  {
+    "id": "Islamic",
+    "name": "التربية الإسلامية",
+    "url": "https://drive.google.com/drive/folders/14OPy2jSswJ21im66HNG5KpsLHxpFLcZP"
+  },
+  {
+    "id": "French",
+    "name": "اللغة الفرنسية",
+    "url": "https://drive.google.com/drive/folders/11U4ptOPNaCfuOKR3kCXpVbklgioLxQAm"
   }
 ]
