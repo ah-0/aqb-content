@@ -1,11 +1,11 @@
 {
   "app_download_url": "https://aqb-beta.vercel.app/",
-  "latest_version": "1.1.0",
-  "force_update": false,
+  "latest_version": "1.2",
+  "force_update": true,
   "chat_url" : "https://akademi-chat.lovable.app/",
   "whats_new": [
-    "",
-    "",
+    "إضافة قسم الدردشة حيث يمكنك التواصل مع العديد من الطلاب",
+    "إمكانية الحصول على الملفات المدفوعة بشكل مجاني عن طريق بعض المهمات",
     ""
   ]
 }
