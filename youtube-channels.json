@@ -1,0 +1,211 @@
+{
+  "subjects": [
+    {
+      "id": "mathematics",
+      "name": "الرياضيات",
+      "channels": [
+        {
+          "id": "math-1",
+          "name": "قناة الرياضيات - الأستاذ أحمد",
+          "description": "شروحات رياضيات للبكالوريا بأسلوب مبسط مع حلول نموذجية لجميع المواضيع المهمة",
+          "url": "https://www.youtube.com/channel/UCXXXXXX1",
+          "subject": "الرياضيات",
+          "subjectId": "mathematics",
+          "thumbnail": "https://example.com/thumbnails/math-1.jpg",
+          "featured": true
+        },
+        {
+          "id": "math-2",
+          "name": "الرياضيات ببساطة - أ. خالد",
+          "description": "حلول مسائل الرياضيات خطوة بخطوة مع شرح القوانين والنظريات الأساسية",
+          "url": "https://www.youtube.com/channel/UCXXXXXX2",
+          "subject": "الرياضيات",
+          "subjectId": "mathematics",
+          "thumbnail": "https://example.com/thumbnails/math-2.jpg"
+        },
+        {
+          "id": "math-3",
+          "name": "الرياضيات للبكالوريا - أ. نور",
+          "description": "شرح منهج الرياضيات كاملاً مع حلول تمارين الكتاب المدرسي",
+          "url": "https://www.youtube.com/channel/UCXXXXXX3",
+          "subject": "الرياضيات",
+          "subjectId": "mathematics",
+          "thumbnail": "https://example.com/thumbnails/math-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "physics",
+      "name": "الفيزياء",
+      "channels": [
+        {
+          "id": "physics-1",
+          "name": "الفيزياء مع الدكتور محمد",
+          "description": "دروس فيزياء متكاملة من الصفر حتى الاحتراف مع تجارب عملية وحلول مسائل",
+          "url": "https://www.youtube.com/channel/UCXXXXXX4",
+          "subject": "الفيزياء",
+          "subjectId": "physics",
+          "thumbnail": "https://example.com/thumbnails/physics-1.jpg",
+          "featured": true
+        },
+        {
+          "id": "physics-2",
+          "name": "فيزياء البكالوريا - أ. سامر",
+          "description": "شرح منهج الفيزياء كاملاً مع حلول تمارين الكتاب المدرسي وأسئلة وزارية",
+          "url": "https://www.youtube.com/channel/UCXXXXXX5",
+          "subject": "الفيزياء",
+          "subjectId": "physics",
+          "thumbnail": "https://example.com/thumbnails/physics-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "الكيمياء",
+      "channels": [
+        {
+          "id": "chemistry-1",
+          "name": "الكيمياء ببساطة - أ. سارة",
+          "description": "شرح كيمياء البكالوريا بطرق سهلة وممتعة مع تجارب كيميائية تفاعلية",
+          "url": "https://www.youtube.com/channel/UCXXXXXX6",
+          "subject": "الكيمياء",
+          "subjectId": "chemistry",
+          "thumbnail": "https://example.com/thumbnails/chemistry-1.jpg"
+        },
+        {
+          "id": "chemistry-2",
+          "name": "الكيمياء العضوية - د. ناديا",
+          "description": "شرح متعمق للكيمياء العضوية مع تفاعلات ومركبات مهمة للبكالوريا",
+          "url": "https://www.youtube.com/channel/UCXXXXXX7",
+          "subject": "الكيمياء",
+          "subjectId": "chemistry",
+          "thumbnail": "https://example.com/thumbnails/chemistry-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "biology",
+      "name": "البيولوجيا",
+      "channels": [
+        {
+          "id": "biology-1",
+          "name": "البيولوجيا مع الدكتور خالد",
+          "description": "شروحات بيولوجيا متعمقة مع رسومات توضيحية وملخصات للفصول الدراسية",
+          "url": "https://www.youtube.com/channel/UCXXXXXX8",
+          "subject": "البيولوجيا",
+          "subjectId": "biology",
+          "thumbnail": "https://example.com/thumbnails/biology-1.jpg",
+          "featured": true
+        },
+        {
+          "id": "biology-2",
+          "name": "علم الأحياء - أ. ريم",
+          "description": "شرح أجزاء الخلية والوراثة والجهاز العصبي بأسلوب مبسط مع رسومات",
+          "url": "https://www.youtube.com/channel/UCXXXXXX9",
+          "subject": "البيولوجيا",
+          "subjectId": "biology",
+          "thumbnail": "https://example.com/thumbnails/biology-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "history-geography",
+      "name": "التاريخ والجغرافيا",
+      "channels": [
+        {
+          "id": "history-1",
+          "name": "التاريخ والجغرافيا - أ. عمر",
+          "description": "تحليل تاريخي وجغرافي مع خرائط وصور للمنهاج الوزاري بالكامل",
+          "url": "https://www.youtube.com/channel/UCXXXXXX10",
+          "subject": "التاريخ والجغرافيا",
+          "subjectId": "history-geography",
+          "thumbnail": "https://example.com/thumbnails/history-1.jpg"
+        },
+        {
+          "id": "history-2",
+          "name": "تاريخ وحضارة - د. فاطمة",
+          "description": "سلسلة دروس التاريخ للبكالوريا مع تحليل للأحداث والشخصيات المهمة",
+          "url": "https://www.youtube.com/channel/UCXXXXXX11",
+          "subject": "التاريخ والجغرافيا",
+          "subjectId": "history-geography",
+          "thumbnail": "https://example.com/thumbnails/history-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "philosophy",
+      "name": "الفلسفة",
+      "channels": [
+        {
+          "id": "philosophy-1",
+          "name": "الفلسفة والمنطق - د. ليلى",
+          "description": "دروس فلسفة ومنطق بطريقة تحليلية مع تطبيقات على الامتحانات الوزارية",
+          "url": "https://www.youtube.com/channel/UCXXXXXX12",
+          "subject": "الفلسفة",
+          "subjectId": "philosophy",
+          "thumbnail": "https://example.com/thumbnails/philosophy-1.jpg",
+          "featured": true
+        },
+        {
+          "id": "philosophy-2",
+          "name": "فلسفة البكالوريا - أ. حسن",
+          "description": "شرح الفلسفة بأسلوب سلس مع مناقشة الأفكار والنظريات الفلسفية",
+          "url": "https://www.youtube.com/channel/UCXXXXXX13",
+          "subject": "الفلسفة",
+          "subjectId": "philosophy",
+          "thumbnail": "https://example.com/thumbnails/philosophy-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "arabic",
+      "name": "اللغة العربية",
+      "channels": [
+        {
+          "id": "arabic-1",
+          "name": "اللغة العربية - أ. ناديا",
+          "description": "قواعد البلاغة والنحو والأدب للبكالوريا مع تدريبات شاملة",
+          "url": "https://www.youtube.com/channel/UCXXXXXX14",
+          "subject": "اللغة العربية",
+          "subjectId": "arabic",
+          "thumbnail": "https://example.com/thumbnails/arabic-1.jpg",
+          "featured": true
+        },
+        {
+          "id": "arabic-2",
+          "name": "النحو والبلاغة - أ. محمود",
+          "description": "شرح قواعد النحو والبلاغة مع أمثلة وتطبيقات على النصوص الأدبية",
+          "url": "https://www.youtube.com/channel/UCXXXXXX15",
+          "subject": "اللغة العربية",
+          "subjectId": "arabic",
+          "thumbnail": "https://example.com/thumbnails/arabic-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "name": "اللغة الإنجليزية",
+      "channels": [
+        {
+          "id": "english-1",
+          "name": "اللغة الإنجليزية - أ. رامي",
+          "description": "دروس قواعد ومفردات قراءة وفهم مع اختبارات تفاعلية",
+          "url": "https://www.youtube.com/channel/UCXXXXXX16",
+          "subject": "اللغة الإنجليزية",
+          "subjectId": "english",
+          "thumbnail": "https://example.com/thumbnails/english-1.jpg"
+        },
+        {
+          "id": "english-2",
+          "name": "English for Baccalaureate - Ms. Lina",
+          "description": "شرح منهج اللغة الإنجليزية للبكالوريا مع تدريبات على القواعد والقراءة",
+          "url": "https://www.youtube.com/channel/UCXXXXXX17",
+          "subject": "اللغة الإنجليزية",
+          "subjectId": "english",
+          "thumbnail": "https://example.com/thumbnails/english-2.jpg"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-01-15"
+}
