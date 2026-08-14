@@ -1,0 +1,66 @@
+[
+  {
+    "id": "step-1",
+    "title": "ابنِ خطة واقعية",
+    "description": "ملف يشرح تحويل هدف العلامة التامة إلى جلسات صغيرة موزعة على الأسبوع.",
+    "icon": "🗓️",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/full-mark-guide/realistic-plan.pdf"
+  },
+  {
+    "id": "step-2",
+    "title": "افهم قبل أن تحفظ",
+    "description": "ملف يوضح ربط القوانين والمفاهيم بالأمثلة والأسئلة التي تشرح استخدامها.",
+    "icon": "🧠",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/full-mark-guide/understand-first.pdf"
+  },
+  {
+    "id": "step-3",
+    "title": "تدرّب مثل يوم الامتحان",
+    "description": "ملف عملي للتدرب على الدورات السابقة بوقت محدد وتصحيح الأخطاء بصدق.",
+    "icon": "📝",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/full-mark-guide/exam-practice.pdf"
+  },
+  {
+    "id": "step-4",
+    "title": "ثبّت المعلومات بذكاء",
+    "description": "ملف عن الاسترجاع النشط والتكرار المتباعد بدلاً من القراءة المتكررة.",
+    "icon": "💡",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/full-mark-guide/retain-information.pdf"
+  },
+  {
+    "id": "step-5",
+    "title": "أدر وقتك داخل القاعة",
+    "description": "ملف يشرح قراءة الورقة وتوزيع الوقت وترك هامش للمراجعة.",
+    "icon": "⏳",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/full-mark-guide/exam-time.pdf"
+  },
+  {
+    "id": "step-6",
+    "title": "احمِ طاقتك وتركيزك",
+    "description": "ملف عن النوم والغذاء والحركة والاستمرارية دون إرهاق.",
+    "icon": "💪",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/full-mark-guide/energy-and-focus.pdf"
+  },
+  {
+    "id": "step-7",
+    "title": "نفّذ مراجعة نهائية ذكية",
+    "description": "ملف للمراجعة الأخيرة بالاعتماد على الملخصات والأخطاء لا المنهج من الصفر.",
+    "icon": "📚",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/full-mark-guide/final-review.pdf"
+  },
+  {
+    "id": "step-8",
+    "title": "ادخل الامتحان بثبات",
+    "description": "ملف للتحضير ليوم الامتحان والتعامل مع كل سؤال كخطوة مستقلة.",
+    "icon": "🏆",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/full-mark-guide/exam-day.pdf"
+  }
+]
