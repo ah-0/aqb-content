@@ -1,0 +1,92 @@
+[
+  {
+    "id": "tip-1",
+    "title": "تقنية بومودورو للدراسة",
+    "description": "ملف عملي يشرح تقسيم وقت الدراسة إلى جلسات تركيز واستراحات قصيرة.",
+    "icon": "⏱️",
+    "category": "study",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/golden-tips/pomodoro.pdf"
+  },
+  {
+    "id": "tip-2",
+    "title": "الاسترجاع النشط",
+    "description": "ملف يوضح كيف تختبر نفسك وتثبت المعلومة بدلاً من إعادة القراءة فقط.",
+    "icon": "🧠",
+    "category": "study",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/golden-tips/active-recall.pdf"
+  },
+  {
+    "id": "tip-3",
+    "title": "المراجعة المتباعدة",
+    "description": "ملف عملي لتنظيم مراجعة الدروس على فترات تساعد على تثبيت المعلومات.",
+    "icon": "📆",
+    "category": "study",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/golden-tips/spaced-repetition.pdf"
+  },
+  {
+    "id": "tip-4",
+    "title": "كيف تكتب ملخصاً فعالاً",
+    "description": "ملف يساعدك على تحويل كل درس إلى صفحة واضحة من العناوين والقوانين والأمثلة.",
+    "icon": "✍️",
+    "category": "organization",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/golden-tips/smart-summary.pdf"
+  },
+  {
+    "id": "tip-5",
+    "title": "إدارة وقت الامتحان",
+    "description": "ملف يشرح ترتيب الأسئلة وتوزيع الوقت وترك دقائق للمراجعة النهائية.",
+    "icon": "🎯",
+    "category": "exam",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/golden-tips/exam-time-management.pdf"
+  },
+  {
+    "id": "tip-6",
+    "title": "قائمة المراجعة قبل التسليم",
+    "description": "ملف مختصر بالأشياء التي يجب فحصها قبل تسليم ورقة الامتحان.",
+    "icon": "⏳",
+    "category": "exam",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/golden-tips/final-checklist.pdf"
+  },
+  {
+    "id": "tip-7",
+    "title": "النوم والتركيز",
+    "description": "ملف يوضح أثر النوم الجيد على التركيز والذاكرة والاستعداد للامتحان.",
+    "icon": "😴",
+    "category": "psychology",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/golden-tips/sleep-and-focus.pdf"
+  },
+  {
+    "id": "tip-8",
+    "title": "تهدئة التوتر",
+    "description": "ملف بتدريبات بسيطة للتنفس واستعادة الهدوء أثناء الدراسة والامتحان.",
+    "icon": "🌿",
+    "category": "psychology",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/golden-tips/stress-control.pdf"
+  },
+  {
+    "id": "tip-9",
+    "title": "التعلم من الأخطاء",
+    "description": "ملف لإنشاء قائمة أخطاء ومراجعتها حتى لا تتكرر في الاختبارات القادمة.",
+    "icon": "📌",
+    "category": "organization",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/golden-tips/learning-from-mistakes.pdf"
+  },
+  {
+    "id": "tip-10",
+    "title": "اشرح الدرس لشخص آخر",
+    "description": "ملف يشرح طريقة استخدام الشرح للآخرين لاكتشاف الفجوات وتثبيت الفهم.",
+    "icon": "👥",
+    "category": "study",
+    "fileType": "PDF",
+    "fileUrl": "https://ah-0.github.io/aqb-content/files/golden-tips/teach-someone.pdf"
+  }
+]
