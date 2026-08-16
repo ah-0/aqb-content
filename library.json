@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-08-16",
+  "grades": [
+    {
+      "id": "grade-1",
+      "name": "الصف الأول",
+      "subtitle": "كتب التأسيس والمرحلة الابتدائية",
+      "color": "#7C3AED",
+      "books": [
+        {
+          "id": "grade-1-arabic",
+          "title": "كتاب اللغة العربية",
+          "subject": "اللغة العربية",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-1/arabic.pdf",
+          "description": "كتاب اللغة العربية للصف الأول."
+        },
+        {
+          "id": "grade-1-math",
+          "title": "كتاب الرياضيات",
+          "subject": "الرياضيات",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-1/mathematics.pdf",
+          "description": "كتاب الرياضيات والتمارين الأساسية للصف الأول."
+        }
+      ]
+    },
+    {
+      "id": "grade-2",
+      "name": "الصف الثاني",
+      "subtitle": "كتب المرحلة الابتدائية",
+      "color": "#2563EB",
+      "books": [
+        {
+          "id": "grade-2-arabic",
+          "title": "كتاب اللغة العربية",
+          "subject": "اللغة العربية",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-2/arabic.pdf"
+        },
+        {
+          "id": "grade-2-math",
+          "title": "كتاب الرياضيات",
+          "subject": "الرياضيات",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-2/mathematics.pdf"
+        }
+      ]
+    },
+    {
+      "id": "grade-3",
+      "name": "الصف الثالث",
+      "subtitle": "كتب المرحلة الابتدائية",
+      "color": "#0891B2",
+      "books": [
+        {
+          "id": "grade-3-arabic",
+          "title": "كتاب اللغة العربية",
+          "subject": "اللغة العربية",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-3/arabic.pdf"
+        },
+        {
+          "id": "grade-3-math",
+          "title": "كتاب الرياضيات",
+          "subject": "الرياضيات",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-3/mathematics.pdf"
+        }
+      ]
+    },
+    {
+      "id": "grade-4",
+      "name": "الصف الرابع",
+      "subtitle": "كتب المرحلة الابتدائية",
+      "color": "#059669",
+      "books": [
+        {
+          "id": "grade-4-arabic",
+          "title": "كتاب اللغة العربية",
+          "subject": "اللغة العربية",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-4/arabic.pdf"
+        },
+        {
+          "id": "grade-4-science",
+          "title": "كتاب العلوم",
+          "subject": "العلوم",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-4/science.pdf"
+        }
+      ]
+    },
+    {
+      "id": "grade-5",
+      "name": "الصف الخامس",
+      "subtitle": "كتب المرحلة الابتدائية",
+      "color": "#D97706",
+      "books": [
+        {
+          "id": "grade-5-arabic",
+          "title": "كتاب اللغة العربية",
+          "subject": "اللغة العربية",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-5/arabic.pdf"
+        },
+        {
+          "id": "grade-5-science",
+          "title": "كتاب العلوم",
+          "subject": "العلوم",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-5/science.pdf"
+        }
+      ]
+    },
+    {
+      "id": "grade-6",
+      "name": "الصف السادس",
+      "subtitle": "كتب الحلقة الثانية",
+      "color": "#DB2777",
+      "books": [
+        {
+          "id": "grade-6-arabic",
+          "title": "كتاب اللغة العربية",
+          "subject": "اللغة العربية",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-6/arabic.pdf"
+        },
+        {
+          "id": "grade-6-math",
+          "title": "كتاب الرياضيات",
+          "subject": "الرياضيات",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-6/mathematics.pdf"
+        }
+      ]
+    },
+    {
+      "id": "grade-7",
+      "name": "الصف السابع",
+      "subtitle": "كتب التعليم الأساسي",
+      "color": "#7C3AED",
+      "books": [
+        {
+          "id": "grade-7-arabic",
+          "title": "كتاب اللغة العربية",
+          "subject": "اللغة العربية",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-7/arabic.pdf"
+        },
+        {
+          "id": "grade-7-science",
+          "title": "كتاب العلوم",
+          "subject": "العلوم",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-7/science.pdf"
+        }
+      ]
+    },
+    {
+      "id": "grade-8",
+      "name": "الصف الثامن",
+      "subtitle": "كتب التعليم الأساسي",
+      "color": "#2563EB",
+      "books": [
+        {
+          "id": "grade-8-arabic",
+          "title": "كتاب اللغة العربية",
+          "subject": "اللغة العربية",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-8/arabic.pdf"
+        },
+        {
+          "id": "grade-8-math",
+          "title": "كتاب الرياضيات",
+          "subject": "الرياضيات",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-8/mathematics.pdf"
+        }
+      ]
+    },
+    {
+      "id": "grade-9",
+      "name": "الصف التاسع",
+      "subtitle": "كتب شهادة التعليم الأساسي",
+      "color": "#EA580C",
+      "books": [
+        {
+          "id": "grade-9-arabic",
+          "title": "كتاب اللغة العربية",
+          "subject": "اللغة العربية",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-9/arabic.pdf"
+        },
+        {
+          "id": "grade-9-math",
+          "title": "كتاب الرياضيات",
+          "subject": "الرياضيات",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-9/mathematics.pdf"
+        }
+      ]
+    },
+    {
+      "id": "grade-10",
+      "name": "الصف العاشر",
+      "subtitle": "كتب التعليم الثانوي",
+      "color": "#0891B2",
+      "books": [
+        {
+          "id": "grade-10-arabic",
+          "title": "كتاب اللغة العربية",
+          "subject": "اللغة العربية",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-10/arabic.pdf"
+        },
+        {
+          "id": "grade-10-science",
+          "title": "كتاب العلوم",
+          "subject": "العلوم",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-10/science.pdf"
+        }
+      ]
+    },
+    {
+      "id": "grade-11",
+      "name": "الصف الحادي عشر",
+      "subtitle": "كتب التعليم الثانوي",
+      "color": "#059669",
+      "books": [
+        {
+          "id": "grade-11-arabic",
+          "title": "كتاب اللغة العربية",
+          "subject": "اللغة العربية",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-11/arabic.pdf"
+        },
+        {
+          "id": "grade-11-math",
+          "title": "كتاب الرياضيات",
+          "subject": "الرياضيات",
+          "url": "https://ah-0.github.io/aqb-content/library/grade-11/mathematics.pdf"
+        }
+      ]
+    }
+  ]
+}
