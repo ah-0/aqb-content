@@ -132,15 +132,15 @@
       "books": [
         {
           "id": "grade-7-arabic",
-          "title": "كتاب اللغة العربية",
+          "title": "1 كتاب اللغة العربية",
           "subject": "اللغة العربية",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-7/arabic.pdf"
+          "url": "https://drive.google.com/file/d/1CSRVUluonogtOad9hQS7Daz1sWjsC6OX/view?usp=drivesdk"
         },
         {
-          "id": "grade-7-science",
-          "title": "كتاب العلوم",
-          "subject": "العلوم",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-7/science.pdf"
+          "id": "grade-7-arabic",
+          "title": "كناب اللغة العربية 2",
+          "subject": "العربية",
+          "url": "https://drive.google.com/file/d/11Q1z-H-bkqHEkXO7ezflMor2U9-ESz30/view?usp=drivesdk"
         }
       ]
     },
