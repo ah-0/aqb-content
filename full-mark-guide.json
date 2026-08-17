@@ -2,65 +2,41 @@
   {
     "id": "step-1",
     "title": "الدليل الشامل للتفوق في مادة الفيزياء",
-    "description": "دليل متكامل يغطي كل ما تحتاجه للتفوق في مادة الفيزياء، من المفاهيم الأساسية إلى التطبيقات المتقدمة مع استراتيجيات حل المسائل.",
-    "icon": "🗓️",
-    "fileType": "PDF",
     "fileUrl": "https://drive.google.com/file/d/1V7jPPZgwuSKZZUwE9M8A9Atn5e2vQ-TB/view?usp=drivesdk"
   },
   {
     "id": "step-2",
     "title": "الدليل الشامل لتحقيق العلامة التامة في مادة الكيمياء",
-    "description": "دليل شامل يشرح كيف تحقق العلامة التامة في الكيمياء من خلال فهم المعادلات، التفاعلات الكيميائية، واستراتيجيات الحل المثلى للأسئلة.",
-    "icon": "🧠",
-    "fileType": "PDF",
     "fileUrl": "https://drive.google.com/file/d/1l25Od3Oy49WeJm5N0UoJO9aC0ryvRGpR/view?usp=drivesdk"
   },
   {
     "id": "step-3",
     "title": "الدليل الشامل لتحقيق العلامة التامة في مادة اللغة العربية",
-    "description": "دليل متكامل يضمن لك التفوق في اللغة العربية، يشمل النحو، البلاغة، الأدب، وتحليل النصوص بأساليب منهجية ميسرة.",
-    "icon": "📝",
-    "fileType": "PDF",
     "fileUrl": "https://drive.google.com/file/d/1a9hoIQJvkDCO9yKMkpSFZx3d_-EZ4HLQ/view?usp=drivesdk"
   },
   {
     "id": "step-4",
     "title": "كيف تحصل على العلامة التامة في الرياضيات",
-    "description": "دليل عملي يوضح خطوات الحصول على العلامة الكاملة في الرياضيات، من خلال استراتيجيات حل المسائل، التدريبات المكثفة، وأساليب التفكير المنطقي.",
-    "icon": "💡",
-    "fileType": "PDF",
     "fileUrl": "https://drive.google.com/file/d/1Z922trSRKaGJbSy5UU3JlvyjIkM1-sRh/view?usp=drivesdk"
   },
   {
     "id": "step-5",
     "title": "كيف تحصل على العلامة التامة في العلوم",
-    "description": "دليل شامل للتفوق في مادة العلوم، يغطي المفاهيم العلمية الأساسية، التجارب العملية، واستراتيجيات الإجابة على أسئلة الامتحانات بكفاءة.",
-    "icon": "⏳",
-    "fileType": "PDF",
     "fileUrl": "https://drive.google.com/file/d/1QC8v3WhQWyTTOKKvJP2r8FGqf34PJ8TF/view?usp=drivesdk"
   },
   {
     "id": "step-6",
     "title": "كيف تحصل على العلامة التامة في اللغة الإنجليزية",
-    "description": "دليل متكامل يضمن لك تحقيق النتيجة الكاملة في الإنجليزية، مع استراتيجيات لتطوير المهارات اللغوية الأربع (القراءة، الكتابة، الاستماع، المحادثة).",
-    "icon": "💪",
-    "fileType": "PDF",
     "fileUrl": "https://drive.google.com/file/d/1Vp9N9JWWxKQ0myp37C1driLn0jIk3duR/view?usp=drivesdk"
   },
   {
     "id": "step-7",
     "title": "الدليل الشامل للتفوق في مادة الفيزياء",
-    "description": "دليل متكامل يغطي كل ما تحتاجه للتفوق في مادة الفيزياء، من المفاهيم الأساسية إلى التطبيقات المتقدمة مع استراتيجيات حل المسائل.",
-    "icon": "📚",
-    "fileType": "PDF",
     "fileUrl": "https://drive.google.com/file/d/1V7jPPZgwuSKZZUwE9M8A9Atn5e2vQ-TB/view?usp=drivesdk"
   },
   {
     "id": "step-8",
     "title": "الدليل الشامل لتحقيق العلامة التامة في مادة الكيمياء",
-    "description": "دليل شامل يشرح كيف تحقق العلامة التامة في الكيمياء من خلال فهم المعادلات، التفاعلات الكيميائية، واستراتيجيات الحل المثلى للأسئلة.",
-    "icon": "🏆",
-    "fileType": "PDF",
     "fileUrl": "https://drive.google.com/file/d/1l25Od3Oy49WeJm5N0UoJO9aC0ryvRGpR/view?usp=drivesdk"
   }
 ]
