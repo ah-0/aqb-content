@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-08-17T00:00:00Z",
+  "branches": [
+    {
+      "id": "scientific",
+      "name": "الفرع العلمي",
+      "subjects": [
+        {
+          "id": "mathematics",
+          "name": "الرياضيات",
+          "files": [
+            {
+              "id": "scientific-math-summary-1",
+              "name": "ملخص الرياضيات - الوحدة الأولى",
+              "url": "https://ah-0.github.io/aqb-content/files/summaries/scientific/mathematics/unit-1.pdf"
+            },
+            {
+              "id": "scientific-math-lessons-1",
+              "name": "دروس الرياضيات كاملة",
+              "url": "https://ah-0.github.io/aqb-content/files/lessons/scientific/mathematics/complete.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics",
+          "name": "الفيزياء",
+          "files": [
+            {
+              "id": "scientific-physics-summary-1",
+              "name": "ملخص الفيزياء",
+              "url": "https://ah-0.github.io/aqb-content/files/summaries/scientific/physics/summary.pdf"
+            }
+          ]
+        },
+        {
+          "id": "chemistry",
+          "name": "الكيمياء",
+          "files": [
+            {
+              "id": "scientific-chemistry-lessons-1",
+              "name": "دروس الكيمياء كاملة",
+              "url": "https://ah-0.github.io/aqb-content/files/lessons/scientific/chemistry/complete.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "literary",
+      "name": "الفرع الأدبي",
+      "subjects": [
+        {
+          "id": "arabic",
+          "name": "اللغة العربية",
+          "files": [
+            {
+              "id": "literary-arabic-summary-1",
+              "name": "ملخص اللغة العربية",
+              "url": "https://ah-0.github.io/aqb-content/files/summaries/literary/arabic/summary.pdf"
+            }
+          ]
+        },
+        {
+          "id": "history",
+          "name": "التاريخ",
+          "files": [
+            {
+              "id": "literary-history-lessons-1",
+              "name": "دروس التاريخ كاملة",
+              "url": "https://ah-0.github.io/aqb-content/files/lessons/literary/history/complete.pdf"
+            }
+          ]
+        },
+        {
+          "id": "geography",
+          "name": "الجغرافيا",
+          "files": [
+            {
+              "id": "literary-geography-summary-1",
+              "name": "ملخص الجغرافيا",
+              "url": "https://ah-0.github.io/aqb-content/files/summaries/literary/geography/summary.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
