@@ -3,7 +3,7 @@
   "latest_version": "1.2",
   "force_update": true,
   "chat_url" : "https://akademi-chat.lovable.app/",
-  "competitions_url": "",
+  "competitions_url": "https://akademi-chat.lovable.app",
   "whats_new": [
     "إضافة قسم الدردشة حيث يمكنك التواصل مع العديد من الطلاب",
     "إمكانية الحصول على الملفات المدفوعة بشكل مجاني عن طريق بعض المهمات",
