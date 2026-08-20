@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-08-20",
+  "categories": [
+    {
+      "id": "mathematics",
+      "name": "الرياضيات",
+      "files": [
+        {
+          "id": "math-channel-1",
+          "name": "اسم قناة الرياضيات",
+          "url": "https://www.youtube.com/@example-math",
+          "thumbnail": "https://example.com/ninth/youtube/math-channel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "العلوم",
+      "files": [
+        {
+          "id": "science-channel-1",
+          "name": "اسم قناة العلوم",
+          "url": "https://www.youtube.com/@example-science",
+          "thumbnail": "https://example.com/ninth/youtube/science-channel.jpg"
+        }
+      ]
+    }
+  ]
+}

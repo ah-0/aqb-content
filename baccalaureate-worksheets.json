@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-08-20",
+  "branches": [
+    {
+      "id": "scientific",
+      "name": "الفرع العلمي",
+      "subjects": [
+        {
+          "id": "mathematics",
+          "name": "الرياضيات",
+          "files": [
+            {
+              "id": "math-worksheet-1",
+              "name": "ورقة عمل الرياضيات الأولى",
+              "url": "https://example.com/baccalaureate/scientific/mathematics/worksheet-1.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics",
+          "name": "الفيزياء",
+          "files": [
+            {
+              "id": "physics-worksheet-1",
+              "name": "ورقة عمل الفيزياء الأولى",
+              "url": "https://example.com/baccalaureate/scientific/physics/worksheet-1.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "literary",
+      "name": "الفرع الأدبي",
+      "subjects": [
+        {
+          "id": "arabic",
+          "name": "اللغة العربية",
+          "files": [
+            {
+              "id": "arabic-worksheet-1",
+              "name": "ورقة عمل اللغة العربية الأولى",
+              "url": "https://example.com/baccalaureate/literary/arabic/worksheet-1.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
