@@ -1,68 +1,27 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-16",
+  "lastUpdated": "2026-08-20",
   "grades": [
     {
       "id": "grade-1",
       "name": "الصف الأول",
       "subtitle": "كتب التأسيس والمرحلة الابتدائية",
       "color": "#7C3AED",
-      "books": [
-        {
-          "id": "grade-1-arabic",
-          "title": "كتاب اللغة العربية",
-          "subject": "اللغة العربية",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-1/arabic.pdf",
-          "description": "كتاب اللغة العربية للصف الأول."
-        },
-        {
-          "id": "grade-1-math",
-          "title": "كتاب الرياضيات",
-          "subject": "الرياضيات",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-1/mathematics.pdf",
-          "description": "كتاب الرياضيات والتمارين الأساسية للصف الأول."
-        }
-      ]
+      "books": []
     },
     {
       "id": "grade-2",
       "name": "الصف الثاني",
       "subtitle": "كتب المرحلة الابتدائية",
       "color": "#2563EB",
-      "books": [
-        {
-          "id": "grade-2-arabic",
-          "title": "كتاب اللغة العربية",
-          "subject": "اللغة العربية",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-2/arabic.pdf"
-        },
-        {
-          "id": "grade-2-math",
-          "title": "كتاب الرياضيات",
-          "subject": "الرياضيات",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-2/mathematics.pdf"
-        }
-      ]
+      "books": []
     },
     {
       "id": "grade-3",
       "name": "الصف الثالث",
       "subtitle": "كتب المرحلة الابتدائية",
       "color": "#0891B2",
-      "books": [
-        {
-          "id": "grade-3-arabic",
-          "title": "كتاب اللغة العربية",
-          "subject": "اللغة العربية",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-3/arabic.pdf"
-        },
-        {
-          "id": "grade-3-math",
-          "title": "كتاب الرياضيات",
-          "subject": "الرياضيات",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-3/mathematics.pdf"
-        }
-      ]
+      "books": []
     },
     {
       "id": "grade-4",
@@ -71,16 +30,58 @@
       "color": "#059669",
       "books": [
         {
-          "id": "grade-4-arabic",
-          "title": "كتاب اللغة العربية",
+          "id": "grade-4-arabic-1",
+          "title": "اللغة العربية 1",
           "subject": "اللغة العربية",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-4/arabic.pdf"
+          "url": "https://drive.google.com/file/d/1MtZjfzDOpmsBZwo_90bilbkzyDSKD-hL/view?usp=drivesdk"
         },
         {
-          "id": "grade-4-science",
-          "title": "كتاب العلوم",
-          "subject": "العلوم",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-4/science.pdf"
+          "id": "grade-4-arabic-2",
+          "title": "اللغة العربية 2",
+          "subject": "اللغة العربية",
+          "url": "https://drive.google.com/file/d/1Ve93P_eM9BCSWPJE0SUW1lfFIj3kXeDO/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-4-english-sb",
+          "title": "إنكليزي كتاب الطالب",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/1w_de0ebdz_N2Lsq9PPF0YkHORq5BMONw/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-4-english-ab",
+          "title": "إنكليزي كتاب النشاط",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/1fRk7VPFIQH0mJ1hbHqiHpDzP9_M7viwZ/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-4-math",
+          "title": "الرياضيات",
+          "subject": "الرياضيات",
+          "url": "https://drive.google.com/file/d/1ct7Lfqn36U3y35HaQR2lxq1zZgbCNVJj/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-4-islamic",
+          "title": "التربية الإسلامية",
+          "subject": "التربية الإسلامية",
+          "url": "https://drive.google.com/file/d/1q5kDIdEln8Ox7JEbUbOQoBnUNftnQ1pI/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-4-christian",
+          "title": "التربية المسيحية",
+          "subject": "التربية المسيحية",
+          "url": "https://drive.google.com/file/d/1xb66Si9qVBNU-py7vwKhpsYMk87KKEpu/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-4-art",
+          "title": "التربية الفنية",
+          "subject": "التربية الفنية",
+          "url": "https://drive.google.com/file/d/1Z0hE3yp0MGKYZb6cr_OktUHYQcyKrv0F/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-4-music",
+          "title": "الموسيقى",
+          "subject": "الموسيقى",
+          "url": "https://drive.google.com/file/d/1cxUQBoOKMTnPLQmc1BxKVZ7t_OWaZ05P/view?usp=drivesdk"
         }
       ]
     },
@@ -91,16 +92,58 @@
       "color": "#D97706",
       "books": [
         {
-          "id": "grade-5-arabic",
-          "title": "كتاب اللغة العربية",
+          "id": "grade-5-arabic-1",
+          "title": "اللغة العربية 1",
           "subject": "اللغة العربية",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-5/arabic.pdf"
+          "url": "https://drive.google.com/file/d/1tO-ZDORYCtGu2N_1N86cbKMnq_D0wXXh/view?usp=drivesdk"
         },
         {
-          "id": "grade-5-science",
-          "title": "كتاب العلوم",
-          "subject": "العلوم",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-5/science.pdf"
+          "id": "grade-5-arabic-2",
+          "title": "اللغة العربية 2",
+          "subject": "اللغة العربية",
+          "url": "https://drive.google.com/file/d/1a8Ziv_Uo7kjh6HlsIizqzq2SzDEDDOOo/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-5-english-sb",
+          "title": "إنكليزي كتاب الطالب",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/1JdaNK5DLcA8MpLLs02i-OT0WbpTdVntA/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-5-english-ab",
+          "title": "إنكليزي كتاب النشاط",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/1tVIXuupc696I4FslZFTat3cygVjY-dFj/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-5-math",
+          "title": "الرياضيات",
+          "subject": "الرياضيات",
+          "url": "https://drive.google.com/file/d/1k6eHzWeF0KmX92S1kW-U25vh4UBZaQNG/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-5-islamic",
+          "title": "التربية الإسلامية",
+          "subject": "التربية الإسلامية",
+          "url": "https://drive.google.com/file/d/1KXpc7a4zMbm36VFY_WQHZ97j5chpZV3E/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-5-christian",
+          "title": "التربية المسيحية",
+          "subject": "التربية المسيحية",
+          "url": "https://drive.google.com/file/d/1ha9fGyk2bPA0-AK_6BT03v9Lronui1Vw/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-5-art",
+          "title": "التربية الفنية",
+          "subject": "التربية الفنية",
+          "url": "https://drive.google.com/file/d/1p1xyDj1ClKZiaMTieFP_datcOy7_4_3D/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-5-music",
+          "title": "الموسيقى",
+          "subject": "الموسيقى",
+          "url": "https://drive.google.com/file/d/1ogxBYWRWYwOV8QzHvS-bB0yDoOKOgvkZ/view?usp=drivesdk"
         }
       ]
     },
@@ -111,16 +154,58 @@
       "color": "#DB2777",
       "books": [
         {
-          "id": "grade-6-arabic",
-          "title": "كتاب اللغة العربية",
+          "id": "grade-6-arabic-1",
+          "title": "اللغة العربية 1",
           "subject": "اللغة العربية",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-6/arabic.pdf"
+          "url": "https://drive.google.com/file/d/1EFai3KtGwWdUqJ_MBciB1uevu14M-Zrs/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-6-arabic-2",
+          "title": "اللغة العربية 2",
+          "subject": "اللغة العربية",
+          "url": "https://drive.google.com/file/d/1wNFjrK9b3tfc3BKatqq3PRujN9LdwvZt/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-6-english-sb",
+          "title": "إنكليزي كتاب الطالب",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/1FbuPaLXUW8q_jGrqVX2OqVpacUWlrj8M/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-6-english-ab",
+          "title": "إنكليزي كتاب النشاط",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/1pWIy8Aul5VWbEE2S2wPeB3CuXq7qJP3I/view?usp=drivesdk"
         },
         {
           "id": "grade-6-math",
-          "title": "كتاب الرياضيات",
+          "title": "الرياضيات",
           "subject": "الرياضيات",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-6/mathematics.pdf"
+          "url": "https://drive.google.com/file/d/1uXy-f7RDXgvzSxa-ga45fpJMtHzgWZEm/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-6-islamic",
+          "title": "التربية الإسلامية",
+          "subject": "التربية الإسلامية",
+          "url": "https://drive.google.com/file/d/1NoL4kfJYKlh3dcn03wf8vWtCaTul6dlM/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-6-christian",
+          "title": "التربية المسيحية",
+          "subject": "التربية المسيحية",
+          "url": "https://drive.google.com/file/d/1qpJW218Ph7G17rAmdHOZq8gy9h56QwEx/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-6-art",
+          "title": "التربية الفنية",
+          "subject": "التربية الفنية",
+          "url": "https://drive.google.com/file/d/16yHnPszOKTiWCDatRTZ93iufswHJCQcM/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-6-music",
+          "title": "الموسيقى",
+          "subject": "الموسيقى",
+          "url": "https://drive.google.com/file/d/1JIXsFt3CCmwmNG0gkITTfmQ2vF23Uz6i/view?usp=drivesdk"
         }
       ]
     },
@@ -131,16 +216,58 @@
       "color": "#7C3AED",
       "books": [
         {
-          "id": "grade-7-arabic",
-          "title": "1 كتاب اللغة العربية",
+          "id": "grade-7-arabic-1",
+          "title": "اللغة العربية 1",
           "subject": "اللغة العربية",
           "url": "https://drive.google.com/file/d/1CSRVUluonogtOad9hQS7Daz1sWjsC6OX/view?usp=drivesdk"
         },
         {
-          "id": "grade-7-arabic",
-          "title": "كناب اللغة العربية 2",
-          "subject": "العربية",
+          "id": "grade-7-arabic-2",
+          "title": "اللغة العربية 2",
+          "subject": "اللغة العربية",
           "url": "https://drive.google.com/file/d/11Q1z-H-bkqHEkXO7ezflMor2U9-ESz30/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-7-english-sb",
+          "title": "إنكليزي كتاب الطالب",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/119Of5j-7J7lJbPAj_46D75nq-MCCBSHp/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-7-english-ab",
+          "title": "إنكليزي كتاب النشاط",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/12KkGNL5Un3KRDflHeA9-UVNNgThEfRvI/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-7-geography",
+          "title": "الجغرافيا",
+          "subject": "الجغرافيا",
+          "url": "https://drive.google.com/file/d/18cezMJO2A5ewumXcsG1ghogWO-YPqNCE/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-7-art",
+          "title": "التربية الفنية",
+          "subject": "التربية الفنية",
+          "url": "https://drive.google.com/file/d/1B4QawH96wCbzKPkCB-RYtAkBwm7jKuqp/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-7-christian",
+          "title": "التربية المسيحية",
+          "subject": "التربية المسيحية",
+          "url": "https://drive.google.com/file/d/1Eq9WqGhhQ6H5BNrvHSQZ3ZbtR07DmjbE/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-7-french-sb",
+          "title": "فرنسي كتاب الطالب",
+          "subject": "اللغة الفرنسية",
+          "url": "https://drive.google.com/file/d/16p-3FBy-XA32GQ2ziwox3-KzWBL3qe8U/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-7-french-ab",
+          "title": "فرنسي كتاب النشاط",
+          "subject": "اللغة الفرنسية",
+          "url": "https://drive.google.com/file/d/1ra7imN2Z3vyBB9Ha4dZFGDapzRO1sCh0/view?usp=drivesdk"
         }
       ]
     },
@@ -152,15 +279,57 @@
       "books": [
         {
           "id": "grade-8-arabic",
-          "title": "كتاب اللغة العربية",
+          "title": "اللغة العربية",
           "subject": "اللغة العربية",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-8/arabic.pdf"
+          "url": "https://drive.google.com/file/d/1CRjHmDoIyHXNg7CYfsGMDJo2eyBWneyh/view?usp=drivesdk"
         },
         {
-          "id": "grade-8-math",
-          "title": "كتاب الرياضيات",
+          "id": "grade-8-english-sb",
+          "title": "إنكليزي كتاب الطالب",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/1G_aN2IPWl-LGjpND2ADMMOqajNu8JDw9/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-8-english-ab",
+          "title": "إنكليزي كتاب النشاط",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/1fGxoppVtrO-rZODP3HDJap8noazfvkdB/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-8-algebra",
+          "title": "الجبر",
           "subject": "الرياضيات",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-8/mathematics.pdf"
+          "url": "https://drive.google.com/file/d/1jD1WfOAaXuuWFw-0cbK9kgJnvJseENOk/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-8-geometry",
+          "title": "الهندسة",
+          "subject": "الرياضيات",
+          "url": "https://drive.google.com/file/d/1leyeAKPA7l2xOmz0fmln7iruHaB6cOuB/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-8-history",
+          "title": "التاريخ",
+          "subject": "التاريخ",
+          "url": "https://drive.google.com/file/d/1cD3FLnJdJSWhmonaq3loVtRm8UE7-Yi3/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-8-christian",
+          "title": "التربية المسيحية",
+          "subject": "التربية المسيحية",
+          "url": "https://drive.google.com/file/d/1bJVOWpZsnYfbvWYsUCD0I6VCXZXQ2yYs/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-8-french-sb",
+          "title": "فرنسي كتاب الطالب",
+          "subject": "اللغة الفرنسية",
+          "url": "https://drive.google.com/file/d/18_ZBsLIdRm0U6tlKAB8O6e5QVCbyK_m9/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-8-french-ab",
+          "title": "فرنسي كتاب النشاط",
+          "subject": "اللغة الفرنسية",
+          "url": "https://drive.google.com/file/d/1VOQN9-72NK_44CiAz9JyV9525W86s2aK/view?usp=drivesdk"
         }
       ]
     },
@@ -171,16 +340,64 @@
       "color": "#EA580C",
       "books": [
         {
-          "id": "grade-9-arabic",
-          "title": "كتاب اللغة العربية",
-          "subject": "اللغة العربية",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-9/arabic.pdf"
+          "id": "grade-9-algebra",
+          "title": "الرياضيات جبر",
+          "subject": "الرياضيات",
+          "url": "https://drive.google.com/file/d/1CXp06PR3YMi-tNISvNXdbsGFldwt8X0z/view?usp=drivesdk"
         },
         {
-          "id": "grade-9-math",
-          "title": "كتاب الرياضيات",
+          "id": "grade-9-geometry",
+          "title": "الرياضيات هندسة",
           "subject": "الرياضيات",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-9/mathematics.pdf"
+          "url": "https://drive.google.com/file/d/1sWzoNL1p-pHMb_YLqYWsspnbOR3Nhko1/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-9-science",
+          "title": "العلوم",
+          "subject": "العلوم",
+          "url": "https://drive.google.com/file/d/1FUUSHAI1MhWWWa_oKFWUTXpJUs45N0XB/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-9-physics-chemistry",
+          "title": "الفيزياء والكيمياء",
+          "subject": "العلوم",
+          "url": "https://drive.google.com/file/d/1-pQuK1WuJ0UQW1IOtLWC4YTqFEQN5rzg/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-9-history",
+          "title": "التاريخ",
+          "subject": "التاريخ",
+          "url": "https://drive.google.com/file/d/1xrDEeDPjkZHdyyAeUhPOBzxioIHt793O/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-9-geography",
+          "title": "الجغرافيا",
+          "subject": "الجغرافيا",
+          "url": "https://drive.google.com/file/d/1uHUA50of6tzRKK5V8C1MEx7OqAYLocPz/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-9-islamic",
+          "title": "التربية الإسلامية",
+          "subject": "التربية الإسلامية",
+          "url": "https://drive.google.com/file/d/1ZyV-_ntK3As_NOePll3gnYjHOQJuCtdj/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-9-french",
+          "title": "اللغة الفرنسية",
+          "subject": "اللغة الفرنسية",
+          "url": "https://drive.google.com/file/d/1i-C21FbOn1noYA5oiAiaK8hs9z2o0-XC/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-9-english-sb",
+          "title": "إنكليزي كتاب الطالب",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/1kcgtSPdGv6xqmcycv0woZlC7XEXSgvn2/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-9-english-ab",
+          "title": "إنكليزي كتاب النشاط",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/1_tKYmOXlvwNZorQZS8qU5OVTiGx-YfRU/view?usp=drivesdk"
         }
       ]
     },
@@ -192,15 +409,105 @@
       "books": [
         {
           "id": "grade-10-arabic",
-          "title": "كتاب اللغة العربية",
+          "title": "اللغة العربية",
           "subject": "اللغة العربية",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-10/arabic.pdf"
+          "url": "https://drive.google.com/file/d/17dRg_yhB3g7k5REb94GNoo4fSBRDeB1o/view?usp=drivesdk"
         },
         {
-          "id": "grade-10-science",
-          "title": "كتاب العلوم",
+          "id": "grade-10-english-sb",
+          "title": "إنكليزي كتاب الطالب",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/1j_J7GYJ4bxpPM41Srpmpkps40C9swl7a/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-10-english-ab",
+          "title": "إنكليزي كتاب النشاط",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/1bValYlnbQQpLXqEnweXEuXyA-CtWiA0R/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-10-chemistry-literary",
+          "title": "كيمياء أدبي",
+          "subject": "الكيمياء",
+          "url": "https://drive.google.com/file/d/11kXqi4yKmztmjzZA9TsUsNes_zcsPS6o/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-10-chemistry-scientific",
+          "title": "كيمياء علمي",
+          "subject": "الكيمياء",
+          "url": "https://drive.google.com/file/d/1_CdndKLraZ2aQre2t7qkRj2tEkcagKq7/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-10-physics-scientific",
+          "title": "فيزياء علمي",
+          "subject": "الفيزياء",
+          "url": "https://drive.google.com/file/d/108buVsUflYu0I7lTL8-x0QKZqBMhd-va/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-10-philosophy-literary",
+          "title": "فلسفة أدبي",
+          "subject": "الفلسفة",
+          "url": "https://drive.google.com/file/d/1tAt1pCFwDK8-c3iZFeBTD-WSgMpsBwJv/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-10-philosophy-scientific",
+          "title": "فلسفة علمي",
+          "subject": "الفلسفة",
+          "url": "https://drive.google.com/file/d/1vofAo2XH6XJzSWPCt7how_8JIcG2-JCz/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-10-science-scientific",
+          "title": "علوم علمي",
           "subject": "العلوم",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-10/science.pdf"
+          "url": "https://drive.google.com/file/d/1KOg8IpmAW0nqUE6IP9roXBHajik6H8SB/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-10-science-literary",
+          "title": "علوم أدبي",
+          "subject": "العلوم",
+          "url": "https://drive.google.com/file/d/1zpEvNc9X48AxgKtsF3k9eantj-RdiT25/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-10-math-algebra",
+          "title": "رياضيات جبر",
+          "subject": "الرياضيات",
+          "url": "https://drive.google.com/file/d/1T7M8j4vIgy9yaBmmFp3AWTjqT6DaXB7Q/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-10-math-geometry",
+          "title": "رياضيات هندسة",
+          "subject": "الرياضيات",
+          "url": "https://drive.google.com/file/d/1X4WpWqwxoA-uDNSvucyQr2AWzBpi4pVe/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-10-islamic",
+          "title": "التربية الإسلامية",
+          "subject": "التربية الإسلامية",
+          "url": "https://drive.google.com/file/d/189AoPPD9do-FmjMVupgB4QcCP4SQyKRC/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-10-geography",
+          "title": "الجغرافيا",
+          "subject": "الجغرافيا",
+          "url": "https://drive.google.com/file/d/1DrtOIVmwQT-Jk0MRIWO0mYkjb6ZGha1Y/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-10-history-literary",
+          "title": "التاريخ أدبي",
+          "subject": "التاريخ",
+          "url": "https://drive.google.com/file/d/1gFXhaK1J1COv9wuevISKw6g-GvI5jKNu/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-10-history-scientific",
+          "title": "التاريخ علمي",
+          "subject": "التاريخ",
+          "url": "https://drive.google.com/file/d/1bJ8XGmiHFAvPtdFHCwd2qSZjKdbu16Bw/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-10-french",
+          "title": "اللغة الفرنسية",
+          "subject": "اللغة الفرنسية",
+          "url": "https://drive.google.com/file/d/14hheMaacRK6nNdYLy7polnTTgCl1jZy1/view?usp=drivesdk"
         }
       ]
     },
@@ -211,16 +518,94 @@
       "color": "#059669",
       "books": [
         {
-          "id": "grade-11-arabic",
-          "title": "كتاب اللغة العربية",
+          "id": "grade-11-arabic-literary",
+          "title": "اللغة العربية أدبي",
           "subject": "اللغة العربية",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-11/arabic.pdf"
+          "url": "https://drive.google.com/file/d/10f6H3dZpbfUeoKvJdB4HNiZbketm_sNT/view?usp=drivesdk"
         },
         {
-          "id": "grade-11-math",
-          "title": "كتاب الرياضيات",
+          "id": "grade-11-arabic-scientific",
+          "title": "اللغة العربية علمي",
+          "subject": "اللغة العربية",
+          "url": "https://drive.google.com/file/d/1EGUXmYn9-sVmYWZlY-IN2mfygDhw9a6P/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-11-english-sb",
+          "title": "إنكليزي كتاب الطالب",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/14jBIv7Y2AuET4yTpSrUFWFVorECWRiwl/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-11-english-ab",
+          "title": "إنكليزي كتاب الأنشطة",
+          "subject": "اللغة الإنكليزية",
+          "url": "https://drive.google.com/file/d/1_jhNkCX-R_eyYd3Q1RnFngas_hHWY8TG/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-11-chemistry",
+          "title": "الكيمياء",
+          "subject": "الكيمياء",
+          "url": "https://drive.google.com/file/d/1Z44j03NExs1NY_EejKApncIf2ZHRttsG/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-11-physics",
+          "title": "الفيزياء",
+          "subject": "الفيزياء",
+          "url": "https://drive.google.com/file/d/1dzlpfsh-fGZwV6AW415RL8bhSqGcz9n8/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-11-philosophy-literary",
+          "title": "الفلسفة أدبي",
+          "subject": "الفلسفة",
+          "url": "https://drive.google.com/file/d/15HM4v0RqMi0NL61vOf59MKHqnZ7ILgHN/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-11-philosophy-scientific",
+          "title": "الفلسفة علمي",
+          "subject": "الفلسفة",
+          "url": "https://drive.google.com/file/d/1iawcdKzXloATyNgXxVJ99N8keZKQsbdF/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-11-science",
+          "title": "العلوم",
+          "subject": "العلوم",
+          "url": "https://drive.google.com/file/d/1fBQq4-XrwrtF_GaK6GdaIpSgSQaZqbpX/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-11-math-part1",
+          "title": "رياضيات جزء ١",
           "subject": "الرياضيات",
-          "url": "https://ah-0.github.io/aqb-content/library/grade-11/mathematics.pdf"
+          "url": "https://drive.google.com/file/d/1RXQbBJF7uiEqL01VOPfvR4YbR0giXpgz/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-11-math-part2",
+          "title": "رياضيات جزء ٢",
+          "subject": "الرياضيات",
+          "url": "https://drive.google.com/file/d/1x6R47_eLfF4wbO5EZRR53p1zrlDBnnvW/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-11-islamic",
+          "title": "التربية الإسلامية",
+          "subject": "التربية الإسلامية",
+          "url": "https://drive.google.com/file/d/1OoNKJijvFsdwHrJWOTGjJZtrjVAnQU-9/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-11-geography",
+          "title": "الجغرافيا",
+          "subject": "الجغرافيا",
+          "url": "https://drive.google.com/file/d/16aKECPmsVsx817CSXq6yM_WlA8u5IiLD/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-11-history",
+          "title": "التاريخ",
+          "subject": "التاريخ",
+          "url": "https://drive.google.com/file/d/12wS3BR7oQ1MfiHriLg1eajC-WMtdRGrT/view?usp=drivesdk"
+        },
+        {
+          "id": "grade-11-french",
+          "title": "اللغة الفرنسية",
+          "subject": "اللغة الفرنسية",
+          "url": "https://drive.google.com/file/d/1SXIFpnR7XDDNsMQIUL7OgDO8CG_LSVsp/view?usp=drivesdk"
         }
       ]
     }
