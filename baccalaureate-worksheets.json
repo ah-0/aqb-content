@@ -1,19 +1,136 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-20",
+  "lastUpdated": "2026-08-21",
   "branches": [
     {
       "id": "scientific",
       "name": "الفرع العلمي",
       "subjects": [
         {
-          "id": "mathematics",
-          "name": "الرياضيات",
+          "id": "arabic",
+          "name": "اللغة العربية",
           "files": [
             {
-              "id": "math-worksheet-1",
-              "name": "ورقة عمل الرياضيات الأولى",
-              "url": "https://example.com/baccalaureate/scientific/mathematics/worksheet-1.pdf"
+              "id": "arabic-worksheet-1",
+              "name": "ورقة عمل 1",
+              "url": "https://drive.google.com/file/d/1W1sNRbwEXpfhI4PXxRbh__B6F9eHe5fV/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-prince",
+              "name": "قصيدة الأمير الدمشقي",
+              "url": "https://drive.google.com/file/d/1viuDVjHed_MeNKZjPC3FPuxB2EQTKUsU/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-bridge",
+              "name": "قصيدة الجسر",
+              "url": "https://drive.google.com/file/d/1vy5FSjUQExCgGuo_1L6TuCSteiRC9ps4/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-absent",
+              "name": "قصيدة الغائب",
+              "url": "https://drive.google.com/file/d/1nlbaga1jePkPmDISV9S9MegBUD90cHiu/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-immigrant",
+              "name": "قصيدة المهاجر",
+              "url": "https://drive.google.com/file/d/16aF9v-daYZuVrD1ajOLp7Bfh-We46xio/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-homeland",
+              "name": "قصيدة الوطن",
+              "url": "https://drive.google.com/file/d/1pT9nNvhkSb6QYshB9N0YcLvSi7YcSpbM/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-knowledge",
+              "name": "قصيدة قوة العلم",
+              "url": "https://drive.google.com/file/d/15bgmM8M78Y9nY9FQmxQtC5qWE4SfeyyE/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-farewell",
+              "name": "قصيدة لوعة الفراق",
+              "url": "https://drive.google.com/file/d/1YUjrk5yyrpqOfIE6-lkdoOq5g8a7sRjE/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-chivalry",
+              "name": "قصيدة مروءة وسخاء",
+              "url": "https://drive.google.com/file/d/1zD16sP_-7yg_GyuLC3gYs78-0-GpgBRi/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-my-homeland",
+              "name": "قصيدة وطني",
+              "url": "https://drive.google.com/file/d/1D1X-WWzPThuhsFtyOZQgZQ99OTs3N41U/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "english",
+          "name": "اللغة الإنجليزية",
+          "files": [
+            {
+              "id": "english-worksheet-1",
+              "name": "ورقة عمل 1",
+              "url": "https://drive.google.com/file/d/1D_HxVoE1Kqma1OB1RbrVLt8uynqUVrE2/view?usp=drivesdk"
+            },
+            {
+              "id": "english-worksheet-2",
+              "name": "ورقة عمل 2",
+              "url": "https://drive.google.com/file/d/1GqndrGtoaFZA60OoZLCc-aOjZLp4CZ0n/view?usp=drivesdk"
+            },
+            {
+              "id": "english-worksheet-3",
+              "name": "ورقة عمل 3",
+              "url": "https://drive.google.com/file/d/14gBfb0iOK_AYk15dym2DNd5LZ0851cQq/view?usp=drivesdk"
+            },
+            {
+              "id": "english-worksheet-4",
+              "name": "ورقة عمل 4",
+              "url": "https://drive.google.com/file/d/1bDEYkxIDP6lDDzPeHD4y7cQisTjC7Hzf/view?usp=drivesdk"
+            },
+            {
+              "id": "english-worksheet-5",
+              "name": "ورقة عمل 5",
+              "url": "https://drive.google.com/file/d/1091Oyxu1GHsJv1M7K6ONLhgjgvvUwVAC/view?usp=drivesdk"
+            },
+            {
+              "id": "english-worksheet-6",
+              "name": "ورقة عمل 6",
+              "url": "https://drive.google.com/file/d/16k-IJxi3cFCyX7sUEP1GAJjcgbNHa--9/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "chemistry",
+          "name": "الكيمياء",
+          "files": [
+            {
+              "id": "chemistry-salt-solutions",
+              "name": "المحاليل المائية للاملاح",
+              "url": "https://drive.google.com/file/d/10cZRwF8aNU-wvzSPhEXwaj6kz9OwPcJy/view?usp=drivesdk"
+            },
+            {
+              "id": "chemistry-reaction-rate",
+              "name": "سرعة التفاعل",
+              "url": "https://drive.google.com/file/d/1_NFUWJ6fldrItGGvI7hCZ7e5kjmkfDTi/view?usp=drivesdk"
+            },
+            {
+              "id": "chemistry-titration",
+              "name": "المعايرة",
+              "url": "https://drive.google.com/file/d/1ZFLm9jqUoE8ipOlru7CIlwAXkRSNU-gG/view?usp=drivesdk"
+            },
+            {
+              "id": "chemistry-gases",
+              "name": "الغازات",
+              "url": "https://drive.google.com/file/d/1XN7lC5sBt33LUCgI4m9ueb8N4ILiMacU/view?usp=drivesdk"
+            },
+            {
+              "id": "chemistry-organic",
+              "name": "الكيمياء العضوية",
+              "url": "https://drive.google.com/file/d/1i6Vy-PbUPDupYS-9csESOqa2nXX36Hrp/view?usp=drivesdk"
+            },
+            {
+              "id": "chemistry-nuclear",
+              "name": "الكيمياء النووية",
+              "url": "https://drive.google.com/file/d/1R0rHO7TVrYuIu_SMubh-dEPsezc2GvtF/view?usp=drivesdk"
             }
           ]
         },
@@ -22,9 +139,116 @@
           "name": "الفيزياء",
           "files": [
             {
-              "id": "physics-worksheet-1",
-              "name": "ورقة عمل الفيزياء الأولى",
-              "url": "https://example.com/baccalaureate/scientific/physics/worksheet-1.pdf"
+              "id": "physics-fluid-mechanics",
+              "name": "ميكانيك السوائل المتحركة",
+              "url": "https://drive.google.com/file/d/1cDgVQ6kx2cHSrmaeoCWAPWMvnoAy-FRZ/view?usp=drivesdk"
+            },
+            {
+              "id": "physics-simple-pendulum",
+              "name": "النواس الثقلي البسيط",
+              "url": "https://drive.google.com/file/d/16wOoy_Rss9VreLKVA47uX3wuQC92hXko/view?usp=drivesdk"
+            },
+            {
+              "id": "physics-compound-pendulum",
+              "name": "النواس الثقلي المركب",
+              "url": "https://drive.google.com/file/d/1p4uzG2kidIj1tfAYtnWDiF0d3JMntdNO/view?usp=drivesdk"
+            },
+            {
+              "id": "physics-torsion-pendulum",
+              "name": "النواس الفتل",
+              "url": "https://drive.google.com/file/d/1cyf6NjT5lLajoUup6se_9NECaki5IWpP/view?usp=drivesdk"
+            },
+            {
+              "id": "physics-elastic-pendulum",
+              "name": "النواس المرن",
+              "url": "https://drive.google.com/file/d/1L2uD_uGNm6y0ErAQOh3qNOVpVgu32FFz/view?usp=drivesdk"
+            },
+            {
+              "id": "physics-sixth-research",
+              "name": "البحث السادس",
+              "url": "https://drive.google.com/file/d/12ptgZ7TvU39I2XAHLJiw8_aisyhayjxo/view?usp=drivesdk"
+            },
+            {
+              "id": "physics-waves",
+              "name": "الأمواج",
+              "url": "https://drive.google.com/file/d/1QQYeeAimljeDSU3bkRKOUOP7cMKG5Fgz/view?usp=drivesdk"
+            },
+            {
+              "id": "physics-electronics-xray",
+              "name": "الالكترونيات والأشعة السينية",
+              "url": "https://drive.google.com/file/d/1LtVs5C4hAggNF_TwYOudhYbAIcR7SX9b/view?usp=drivesdk"
+            },
+            {
+              "id": "physics-ac-current",
+              "name": "التيار المتناوب",
+              "url": "https://drive.google.com/file/d/1dZmtu8wXukBpKrkFiZ4b0hOHjEDxjDEn/view?usp=drivesdk"
+            },
+            {
+              "id": "physics-oscillating-circuits",
+              "name": "الدارات المهتزة",
+              "url": "https://drive.google.com/file/d/1R_VdnfBfFukTyjLQdlCGM_1Q1fxBdaBQ/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "science",
+          "name": "العلوم",
+          "files": [
+            {
+              "id": "science-genetics",
+              "name": "علم الوراثة",
+              "url": "https://drive.google.com/file/d/1AZwrDUe2eznR7KZGQT-Sckm1Xt6OGTQ8/view?usp=drivesdk"
+            },
+            {
+              "id": "science-pine-seed",
+              "name": "بذرة الصنوبر",
+              "url": "https://drive.google.com/file/d/1mJrXukpVT_zUEAdJ8KLfT-bTWBpnHwXn/view?usp=drivesdk"
+            },
+            {
+              "id": "science-human-reproduction",
+              "name": "تكاثر الإنسان",
+              "url": "https://drive.google.com/file/d/1CYqRyW0LKNa1qhmJuoDKqzbRH0P00KGo/view?usp=drivesdk"
+            },
+            {
+              "id": "science-virus-reproduction",
+              "name": "تكاثر الفيروسات",
+              "url": "https://drive.google.com/file/d/1EyThV7E705htIp6fxFm9Vx1S8GHdtutX/view?usp=drivesdk"
+            },
+            {
+              "id": "science-hormones",
+              "name": "قسم الهرمونات",
+              "url": "https://drive.google.com/file/d/1zRfahvHwii5OqRy2LwJOB0yuQMTiqk-l/view?usp=drivesdk"
+            },
+            {
+              "id": "science-nervous-system",
+              "name": "بحث العصبية",
+              "url": "https://drive.google.com/file/d/130fIXpeUlsfu2KhHlGyfDubo2oFTnU_L/view?usp=drivesdk"
+            },
+            {
+              "id": "science-sensory-receptors",
+              "name": "مستقبلات الحس",
+              "url": "https://drive.google.com/file/d/1vXt__Bmp5aASbjURGI3QiYhPqU3X3G4E/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "islamic",
+          "name": "التربية الإسلامية",
+          "files": [
+            {
+              "id": "islamic-worksheet-1",
+              "name": "ورقة عمل 1",
+              "url": "https://drive.google.com/file/d/1vvcy6z_0x0EVbJ8w02W2vW-COToVeB3P/view?usp=drivesdk"
+            },
+            {
+              "id": "islamic-worksheet-2",
+              "name": "ورقة عمل 2",
+              "url": "https://drive.google.com/file/d/16ItFqN8Pu7EImgeDhEgmSApKgdhm47t1/view?usp=drivesdk"
+            },
+            {
+              "id": "islamic-worksheet-3",
+              "name": "ورقة عمل 3",
+              "url": "https://drive.google.com/file/d/1mJuLXIZJCiIorxCyw9NrOW4XEf82svXw/view?usp=drivesdk"
             }
           ]
         }
@@ -40,8 +264,217 @@
           "files": [
             {
               "id": "arabic-worksheet-1",
-              "name": "ورقة عمل اللغة العربية الأولى",
-              "url": "https://example.com/baccalaureate/literary/arabic/worksheet-1.pdf"
+              "name": "ورقة عمل 1",
+              "url": "https://drive.google.com/file/d/1W1sNRbwEXpfhI4PXxRbh__B6F9eHe5fV/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-prince",
+              "name": "قصيدة الأمير الدمشقي",
+              "url": "https://drive.google.com/file/d/1viuDVjHed_MeNKZjPC3FPuxB2EQTKUsU/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-bridge",
+              "name": "قصيدة الجسر",
+              "url": "https://drive.google.com/file/d/1vy5FSjUQExCgGuo_1L6TuCSteiRC9ps4/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-absent",
+              "name": "قصيدة الغائب",
+              "url": "https://drive.google.com/file/d/1nlbaga1jePkPmDISV9S9MegBUD90cHiu/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-immigrant",
+              "name": "قصيدة المهاجر",
+              "url": "https://drive.google.com/file/d/16aF9v-daYZuVrD1ajOLp7Bfh-We46xio/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-homeland",
+              "name": "قصيدة الوطن",
+              "url": "https://drive.google.com/file/d/1pT9nNvhkSb6QYshB9N0YcLvSi7YcSpbM/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-knowledge",
+              "name": "قصيدة قوة العلم",
+              "url": "https://drive.google.com/file/d/15bgmM8M78Y9nY9FQmxQtC5qWE4SfeyyE/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-farewell",
+              "name": "قصيدة لوعة الفراق",
+              "url": "https://drive.google.com/file/d/1YUjrk5yyrpqOfIE6-lkdoOq5g8a7sRjE/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-chivalry",
+              "name": "قصيدة مروءة وسخاء",
+              "url": "https://drive.google.com/file/d/1zD16sP_-7yg_GyuLC3gYs78-0-GpgBRi/view?usp=drivesdk"
+            },
+            {
+              "id": "arabic-poem-my-homeland",
+              "name": "قصيدة وطني",
+              "url": "https://drive.google.com/file/d/1D1X-WWzPThuhsFtyOZQgZQ99OTs3N41U/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "english",
+          "name": "اللغة الإنجليزية",
+          "files": [
+            {
+              "id": "english-worksheet-1",
+              "name": "ورقة عمل 1",
+              "url": "https://drive.google.com/file/d/1D_HxVoE1Kqma1OB1RbrVLt8uynqUVrE2/view?usp=drivesdk"
+            },
+            {
+              "id": "english-worksheet-2",
+              "name": "ورقة عمل 2",
+              "url": "https://drive.google.com/file/d/1GqndrGtoaFZA60OoZLCc-aOjZLp4CZ0n/view?usp=drivesdk"
+            },
+            {
+              "id": "english-worksheet-3",
+              "name": "ورقة عمل 3",
+              "url": "https://drive.google.com/file/d/14gBfb0iOK_AYk15dym2DNd5LZ0851cQq/view?usp=drivesdk"
+            },
+            {
+              "id": "english-worksheet-4",
+              "name": "ورقة عمل 4",
+              "url": "https://drive.google.com/file/d/1bDEYkxIDP6lDDzPeHD4y7cQisTjC7Hzf/view?usp=drivesdk"
+            },
+            {
+              "id": "english-worksheet-5",
+              "name": "ورقة عمل 5",
+              "url": "https://drive.google.com/file/d/1091Oyxu1GHsJv1M7K6ONLhgjgvvUwVAC/view?usp=drivesdk"
+            },
+            {
+              "id": "english-worksheet-6",
+              "name": "ورقة عمل 6",
+              "url": "https://drive.google.com/file/d/16k-IJxi3cFCyX7sUEP1GAJjcgbNHa--9/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "islamic",
+          "name": "التربية الإسلامية",
+          "files": [
+            {
+              "id": "islamic-worksheet-1",
+              "name": "ورقة عمل 1",
+              "url": "https://drive.google.com/file/d/1vvcy6z_0x0EVbJ8w02W2vW-COToVeB3P/view?usp=drivesdk"
+            },
+            {
+              "id": "islamic-worksheet-2",
+              "name": "ورقة عمل 2",
+              "url": "https://drive.google.com/file/d/16ItFqN8Pu7EImgeDhEgmSApKgdhm47t1/view?usp=drivesdk"
+            },
+            {
+              "id": "islamic-worksheet-3",
+              "name": "ورقة عمل 3",
+              "url": "https://drive.google.com/file/d/1mJuLXIZJCiIorxCyw9NrOW4XEf82svXw/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "unit1",
+          "name": "الوحدة الأولى",
+          "files": [
+            {
+              "id": "unit-1",
+              "name": "الوحدة الأولى",
+              "url": "https://drive.google.com/file/d/1CXIZbLRH9cQoGX5-4LGzGi_EXJzmzE8I/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "unit2",
+          "name": "الوحدة الثانية",
+          "files": [
+            {
+              "id": "unit-2",
+              "name": "الوحدة الثانية",
+              "url": "https://drive.google.com/file/d/1Pa3TDOkZhZ1pjNjeHZWCUj12eAKvs-JH/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "unit3",
+          "name": "الوحدة الثالثة",
+          "files": [
+            {
+              "id": "unit-3",
+              "name": "الوحدة الثالثة",
+              "url": "https://drive.google.com/file/d/1FDERh3_gOHEBx_dYM4BMHmjejglg0OFe/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "unit4",
+          "name": "الوحدة الرابعة",
+          "files": [
+            {
+              "id": "unit-4",
+              "name": "الوحدة الرابعة",
+              "url": "https://drive.google.com/file/d/1QrqgueDX0iBRjpuDA4hx3Q2FP7cBf4jd/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "unit5",
+          "name": "الوحدة الخامسة",
+          "files": [
+            {
+              "id": "unit-5",
+              "name": "الوحدة الخامسة",
+              "url": "https://drive.google.com/file/d/19XHuYhsSxXkMA3Y-Ut3cLe6RxSxHhjDX/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "geography",
+          "name": "الجغرافيا",
+          "files": [
+            {
+              "id": "geography-worksheet-1",
+              "name": "ورقة عمل 1",
+              "url": "https://drive.google.com/file/d/1OZHXQETDePkSaqPBOkNK6QR2Ap1NZ1to/view?usp=drivesdk"
+            },
+            {
+              "id": "geography-worksheet-2",
+              "name": "ورقة عمل 2",
+              "url": "https://drive.google.com/file/d/14vZp9w7qtoc5ZFFqUFR01gIbVpbEgJ0t/view?usp=drivesdk"
+            },
+            {
+              "id": "geography-worksheet-3",
+              "name": "ورقة عمل 3",
+              "url": "https://drive.google.com/file/d/1XOhSs4tpGFTvBfGit7i_ellc5AFIb_jn/view?usp=drivesdk"
+            },
+            {
+              "id": "geography-worksheet-4",
+              "name": "ورقة عمل 4",
+              "url": "https://drive.google.com/file/d/151fjfQelMWmNqvXb5ERTw1uHNQBYyzel/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "history",
+          "name": "التاريخ",
+          "files": [
+            {
+              "id": "history-worksheet-1",
+              "name": "ورقة عمل 1",
+              "url": "https://drive.google.com/file/d/1iFDtmMOixzQ2sX9GOOlLFHtEwPuUi4mU/view?usp=drivesdk"
+            },
+            {
+              "id": "history-worksheet-2",
+              "name": "ورقة عمل 2",
+              "url": "https://drive.google.com/file/d/1cp157QG2xqHz3K99IAez8cHiQRarfaAo/view?usp=drivesdk"
+            },
+            {
+              "id": "history-worksheet-3",
+              "name": "ورقة عمل 3",
+              "url": "https://drive.google.com/file/d/1lySr5qR_uhfBKVNdEX7ewWTcw-LW5RA4/view?usp=drivesdk"
+            },
+            {
+              "id": "history-worksheet-4",
+              "name": "ورقة عمل 4",
+              "url": "https://drive.google.com/file/d/1Z1bvNnKdMoueK_SDuO3wtRdQ5hi0xbS3/view?usp=drivesdk"
             }
           ]
         }
