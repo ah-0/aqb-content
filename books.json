@@ -1,19 +1,29 @@
 {
   "scientific": [
     {
-      "id": "physics",
-      "name": "الفيزياء",
-      "url": "https://drive.google.com/file/d/1JyQRDt78iueBH9m-5lDyp3tajbWHZveq/view?usp=drivesdk"
+      "id": "arabic",
+      "name": "اللغة العربية",
+      "url": "https://drive.google.com/file/d/1kA99S6zYuQUXoMkUDB_Z7JWWBs-dmg5K/view?usp=drivesdk"
     },
     {
-      "id": "chemistry",
-      "name": "الكيمياء",
-      "url": "https://drive.google.com/file/d/1QegUNxuwJpfmzArR_H4dbcsSTWnmJwIA/view?usp=drivesdk"
+      "id": "english_student",
+      "name": "إنكليزي كتاب الطالب",
+      "url": "https://drive.google.com/file/d/1VDLcsPMJE7IjJb152pY71rMNo6vjmtU8/view?usp=drivesdk"
     },
     {
-      "id": "math",
-      "name": "الرياضيات",
+      "id": "english_activity",
+      "name": "إنكليزي كتاب النشاط",
+      "url": "https://drive.google.com/file/d/1U3LpRC5MjAOh7yiyuvdMBx9RqWkbvnbR/view?usp=drivesdk"
+    },
+    {
+      "id": "math1",
+      "name": "الرياضيات 1",
       "url": "https://drive.google.com/file/d/11UFDr5oJNmsEW7gyGIQVRVkhL-R84VcW/view?usp=drivesdk"
+    },
+    {
+      "id": "math2",
+      "name": "الرياضيات 2",
+      "url": "https://drive.google.com/file/d/1jTWYzA6xpiw4xi1DJOPFVEBif0FnwHcI/view?usp=drivesdk"
     },
     {
       "id": "science",
@@ -21,31 +31,36 @@
       "url": "https://drive.google.com/file/d/1ogKnGt18N-HLREp2Ji4GiUGyt48c8rcM/view?usp=drivesdk"
     },
     {
-      "id": "arabic",
-      "name": "اللغة العربية",
-      "url": "https://drive.google.com/file/d/1kA99S6zYuQUXoMkUDB_Z7JWWBs-dmg5K/view?usp=drivesdk"
-    },
-    {
-      "id": "english",
-      "name": "اللغة الإنكليزية",
-      "url": "https://drive.google.com/file/d/1VDLcsPMJE7IjJb152pY71rMNo6vjmtU8/view?usp=drivesdk"
-    },
-    {
-      "id": "religion",
-      "name": "الديانة",
+      "id": "islamic",
+      "name": "التربية الإسلامية",
       "url": "https://drive.google.com/file/d/1QQlJPLRmxR1l2T7ZPEYMO7hgxYgsSo8S/view?usp=drivesdk"
     },
     {
-      "id": "turk",
-      "name": "اللغة التركية",
-      "url": "https://drive.google.com/file/d/1kA99S6zYuQUXoMkUDB_Z7JWWBs-dmg5K/view?usp=drivesdk"
+      "id": "chemistry",
+      "name": "الكيمياء",
+      "url": "https://drive.google.com/file/d/1QegUNxuwJpfmzArR_H4dbcsSTWnmJwIA/view?usp=drivesdk"
+    },
+    {
+      "id": "physics",
+      "name": "الفيزياء",
+      "url": "https://drive.google.com/file/d/1JyQRDt78iueBH9m-5lDyp3tajbWHZveq/view?usp=drivesdk"
     }
   ],
   "literary": [
     {
-      "id": "geo",
-      "name": "الجغرافيا",
+      "id": "arabic_lit",
+      "name": "اللغة العربية",
       "url": "https://drive.google.com/file/d/1tm7KoMdBjn9dJWh1-zanCz9hiowdLLmr/view?usp=drivesdk"
+    },
+    {
+      "id": "french_student",
+      "name": "فرنسي كتاب الطالب",
+      "url": "https://drive.google.com/file/d/1f0SYC0Xa0uW38JljnKXSr4uJsDTZj21w/view?usp=drivesdk"
+    },
+    {
+      "id": "french_supplement",
+      "name": "ملحق فرنسي",
+      "url": "https://drive.google.com/file/d/1Vk4L5dZvOSOatFTHGw2Fo0irI91cMOCN/view?usp=drivesdk"
     },
     {
       "id": "history",
@@ -53,29 +68,29 @@
       "url": "https://drive.google.com/file/d/1J3EmfqZy0WH8IIUh-_qp3vstK2-OdyCD/view?usp=drivesdk"
     },
     {
-      "id": "arabic",
-      "name": "اللغة العربية",
-      "url": "https://drive.google.com/file/d/1tm7KoMdBjn9dJWh1-zanCz9hiowdLLmr/view?usp=drivesdk"
+      "id": "english_activity_lit",
+      "name": "إنكليزي كتاب النشاط",
+      "url": "https://drive.google.com/file/d/1_LrKOunNzM-LnmHmPIzlkkNnlpU4GvrI/view?usp=drivesdk"
     },
     {
-      "id": "english",
-      "name": "اللغة الإنكليزية",
+      "id": "english_student_lit",
+      "name": "إنكليزي كتاب الطالب",
       "url": "https://drive.google.com/file/d/1VDLcsPMJE7IjJb152pY71rMNo6vjmtU8/view?usp=drivesdk"
     },
     {
-      "id": "philosophy",
-      "name": "الفلسفة",
-      "url": "https://drive.google.com/file/d/1r-cgAHS0StI-rokAVG_5K99V324XHTgU/view?usp=drivesdk"
-    },
-    {
-      "id": "religion",
-      "name": "الديانة",
+      "id": "islamic_lit",
+      "name": "التربية الإسلامية",
       "url": "https://drive.google.com/file/d/1FUCjWV_2yd4N5Prn4MC4tk9oGumtpt4C/view?usp=drivesdk"
     },
     {
-      "id": "turk",
-      "name": "اللغة التركية",
-      "url": "https://drive.google.com/file/d/1tm7KoMdBjn9dJWh1-zanCz9hiowdLLmr/view?usp=drivesdk"
+      "id": "philosophy_ch2",
+      "name": "الفلسفة الفصل الثاني",
+      "url": "https://drive.google.com/file/d/1r-cgAHS0StI-rokAVG_5K99V324XHTgU/view?usp=drivesdk"
+    },
+    {
+      "id": "philosophy_ch1",
+      "name": "الفلسفة الفصل الاول",
+      "url": "https://drive.google.com/file/d/1lwh6ThhvE2HKXWf__j1PFQAT9RiylEOE/view?usp=drivesdk"
     }
   ]
 }
