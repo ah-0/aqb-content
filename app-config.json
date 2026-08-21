@@ -1,13 +1,16 @@
 {
   "app_download_url": "https://aqb-beta.vercel.app/",
   "latest_version": "1.2",
-  "force_update": true,
+  "force_update": false,
   "chat_url" : "https://akademi-chat.lovable.app/",
-  "competitions_url": "https://akademi-chat.lovable.app",
+  "competitions_url": "",
   "ninth_featured_url" : "",
   "whats_new": [
-    "إضافة قسم الدردشة حيث يمكنك التواصل مع العديد من الطلاب",
-    "إمكانية الحصول على الملفات المدفوعة بشكل مجاني عن طريق بعض المهمات",
-    ""
-  ]
+  "إضافة مئات الملفات في قسم البكالوريا والصف التاسع",
+  "أقسام جديدة ومميزة للبكالوريا والصف التاسع",
+  "تحسينات على قسم تنظيم الصور",
+  "تحسينات على قسم تنظيم الملفات",
+  "تحسين قسم مهماتي",
+  "إضافة لعبة ذاكرة جديدة"
+]
 }
