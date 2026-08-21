@@ -372,55 +372,31 @@
           ]
         },
         {
-          "id": "unit1",
-          "name": "الوحدة الأولى",
+          "id": "philosophy",
+          "name": "الفلسفة",
           "files": [
             {
-              "id": "unit-1",
+              "id": "philosophy-unit-1",
               "name": "الوحدة الأولى",
               "url": "https://drive.google.com/file/d/1CXIZbLRH9cQoGX5-4LGzGi_EXJzmzE8I/view?usp=drivesdk"
-            }
-          ]
-        },
-        {
-          "id": "unit2",
-          "name": "الوحدة الثانية",
-          "files": [
+            },
             {
-              "id": "unit-2",
+              "id": "philosophy-unit-2",
               "name": "الوحدة الثانية",
               "url": "https://drive.google.com/file/d/1Pa3TDOkZhZ1pjNjeHZWCUj12eAKvs-JH/view?usp=drivesdk"
-            }
-          ]
-        },
-        {
-          "id": "unit3",
-          "name": "الوحدة الثالثة",
-          "files": [
+            },
             {
-              "id": "unit-3",
+              "id": "philosophy-unit-3",
               "name": "الوحدة الثالثة",
               "url": "https://drive.google.com/file/d/1FDERh3_gOHEBx_dYM4BMHmjejglg0OFe/view?usp=drivesdk"
-            }
-          ]
-        },
-        {
-          "id": "unit4",
-          "name": "الوحدة الرابعة",
-          "files": [
+            },
             {
-              "id": "unit-4",
+              "id": "philosophy-unit-4",
               "name": "الوحدة الرابعة",
               "url": "https://drive.google.com/file/d/1QrqgueDX0iBRjpuDA4hx3Q2FP7cBf4jd/view?usp=drivesdk"
-            }
-          ]
-        },
-        {
-          "id": "unit5",
-          "name": "الوحدة الخامسة",
-          "files": [
+            },
             {
-              "id": "unit-5",
+              "id": "philosophy-unit-5",
               "name": "الوحدة الخامسة",
               "url": "https://drive.google.com/file/d/19XHuYhsSxXkMA3Y-Ut3cLe6RxSxHhjDX/view?usp=drivesdk"
             }
