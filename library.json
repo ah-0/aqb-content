@@ -340,6 +340,12 @@
       "color": "#EA580C",
       "books": [
         {
+          "id": "grade-9-arabic",
+          "title": "اللغة العربية",
+          "subject": "اللغة العربية",
+          "url": "https://drive.google.com/file/d/1CXp06PR3YMi-tNISvNXdbsGFldwt8X0z/view?usp=drivesdk"
+        },
+        {
           "id": "grade-9-algebra",
           "title": "الرياضيات جبر",
           "subject": "الرياضيات",
