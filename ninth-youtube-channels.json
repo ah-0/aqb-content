@@ -1,16 +1,106 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-20",
+  "lastUpdated": "2026-08-23",
   "categories": [
     {
       "id": "mathematics",
       "name": "الرياضيات",
       "files": [
         {
-          "id": "math-channel-1",
-          "name": "اسم قناة الرياضيات",
-          "url": "https://www.youtube.com/@example-math",
-          "thumbnail": "https://example.com/ninth/youtube/math-channel.jpg"
+          "id": "abdulaziz-shamlan",
+          "name": "عبد العزيز شملان",
+          "url": "https://youtube.com/channel/UCyRGUWtiWq4Dceg2uqDZS0Q?si=XBCRcb2NIkIPtqBB",
+          "thumbnail": ""
+        },
+        {
+          "id": "jafar-mohammed",
+          "name": "جعفر محمد",
+          "url": "https://youtube.com/channel/UCKb4zLfs3RNa6_ZtCLUpE6Q?si=tUsxCD_QYo48imVP",
+          "thumbnail": ""
+        },
+        {
+          "id": "bayan-math",
+          "name": "الأنسة بيان",
+          "url": "https://youtube.com/@mathbayan?si=xl1uPvSlUeLSm_NZ",
+          "thumbnail": ""
+        },
+        {
+          "id": "tarek-toama",
+          "name": "طارق طعمة",
+          "url": "https://youtube.com/@tarektoama?si=yBBAG4PeehMf2ypd",
+          "thumbnail": ""
+        }
+      ]
+    },
+    {
+      "id": "physics-chemistry",
+      "name": "الفيزياء والكيمياء",
+      "files": [
+        {
+          "id": "maher-hamawi",
+          "name": "ماهر الحموي",
+          "url": "https://youtube.com/channel/UCH03QoQ9wA8VT4Xhh7JawmQ?si=jzvDqLgjXwA2Ox9G",
+          "thumbnail": ""
+        },
+        {
+          "id": "husam-shahbandar",
+          "name": "حسام شهبندر",
+          "url": "https://youtube.com/@husam.physics?si=GGj7wL0o5sA7lWY7",
+          "thumbnail": ""
+        }
+      ]
+    },
+    {
+      "id": "french",
+      "name": "اللغة الفرنسية",
+      "files": [
+        {
+          "id": "maha-al-tanji",
+          "name": "مها التنجي",
+          "url": "https://youtube.com/@mahaaltanji?si=fqtkbto4eTkHTEKG",
+          "thumbnail": ""
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "name": "اللغة الانجليزية",
+      "files": [
+        {
+          "id": "hussein-al-hassan",
+          "name": "حسين الحسن",
+          "url": "https://youtube.com/@husseinsheikhhasan?si=XDlJKNWVx6EGoD2P",
+          "thumbnail": ""
+        },
+        {
+          "id": "ali-al-darsani",
+          "name": "علي الدرساني",
+          "url": "https://youtube.com/@alialdarsani?si=iHffDbYhqxbJL9Cw",
+          "thumbnail": ""
+        }
+      ]
+    },
+    {
+      "id": "arabic",
+      "name": "اللغة العربية",
+      "files": [
+        {
+          "id": "hamoud-wais",
+          "name": "حمود ويس",
+          "url": "https://youtube.com/channel/UCtRjr9pNBfpmRJn_Cx3zHNA?si=-M3DSlNAKYquy7aF",
+          "thumbnail": ""
+        },
+        {
+          "id": "luqman-education",
+          "name": "لقمان التعليمية",
+          "url": "https://youtube.com/@luqmaneducationnatouf?si=wXQL9P2jPDYzhM14",
+          "thumbnail": ""
+        },
+        {
+          "id": "taleb-online",
+          "name": "منصة الطالب التعليمية",
+          "url": "https://youtube.com/@taleb.online1?si=GZxz1_Ad-QBT5iki",
+          "thumbnail": ""
         }
       ]
     },
@@ -19,10 +109,40 @@
       "name": "العلوم",
       "files": [
         {
-          "id": "science-channel-1",
-          "name": "اسم قناة العلوم",
-          "url": "https://www.youtube.com/@example-science",
-          "thumbnail": "https://example.com/ninth/youtube/science-channel.jpg"
+          "id": "fun-sciences",
+          "name": "العلوم المسلية",
+          "url": "https://youtube.com/@funsciences?si=ynIpdmREiKRPJ040",
+          "thumbnail": ""
+        },
+        {
+          "id": "ayham-barbari",
+          "name": "ايهم بربري",
+          "url": "https://youtube.com/@ayham_barbari?si=UURo8jgzyhsx_sXq",
+          "thumbnail": ""
+        }
+      ]
+    },
+    {
+      "id": "social-studies",
+      "name": "الاجتماعيات",
+      "files": [
+        {
+          "id": "omar-dawlatly",
+          "name": "عمر الدولتلي",
+          "url": "https://youtube.com/@omardawlatly?si=qEnJ0gJqW3bzYuB8",
+          "thumbnail": ""
+        },
+        {
+          "id": "taleb-online-social",
+          "name": "منصة الطالب التعليمية",
+          "url": "https://youtube.com/@taleb.online1?si=MT_e8W7QOz8gRI8U",
+          "thumbnail": ""
+        },
+        {
+          "id": "ayman-al-hwseen",
+          "name": "ايمن الحسين",
+          "url": "https://youtube.com/@aymanalhwseen7?si=z4H_WryTSc1KEnPf",
+          "thumbnail": ""
         }
       ]
     }
