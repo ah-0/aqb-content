@@ -11,14 +11,29 @@
           "name": "الرياضيات",
           "files": [
             {
-              "id": "scientific-math-summary-1",
-              "name": "ملخص الرياضيات - الوحدة الأولى",
-              "url": "https://ah-0.github.io/aqb-content/files/summaries/scientific/mathematics/unit-1.pdf"
+              "id": "scientific-math-foundation-2027",
+              "name": "تأسيس رياضيات 2027",
+              "url": "https://drive.google.com/file/d/1K2wEfc6pDmjqcMST440WpewhTJ-aSMiR/view?usp=drivesdk"
             },
             {
-              "id": "scientific-math-lessons-1",
-              "name": "دروس الرياضيات كاملة",
-              "url": "https://ah-0.github.io/aqb-content/files/lessons/scientific/mathematics/complete.pdf"
+              "id": "scientific-math-derivation-rules",
+              "name": "قواعد الاشتقاق",
+              "url": "https://drive.google.com/file/d/1tL-CXiRxKByr592Wp1eX14UQGtMkpfUD/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-math-sequences",
+              "name": "الشامل في المتتاليات",
+              "url": "https://drive.google.com/file/d/1BeOBaoKpJbbO7VYkSUNQI_zTwKB94nZx/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-math-all-laws",
+              "name": "جميع قوانين الرياضيات",
+              "url": "https://drive.google.com/file/d/1XKtwfH8rt-YkO7Qj-CIcwRHdQ8MFeDHH/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-math-exp-log-comparison",
+              "name": "مقارنة تابع الأسي واللوغارتمي",
+              "url": "https://drive.google.com/file/d/1nvXGuIic6xQ99rhSbyrgFEjFYCqcIpv5/view?usp=drivesdk"
             }
           ]
         },
@@ -27,9 +42,24 @@
           "name": "الفيزياء",
           "files": [
             {
-              "id": "scientific-physics-summary-1",
-              "name": "ملخص الفيزياء",
-              "url": "https://ah-0.github.io/aqb-content/files/summaries/scientific/physics/summary.pdf"
+              "id": "scientific-physics-mechanics-2027",
+              "name": "تأسيس الميكانيك 2027",
+              "url": "https://drive.google.com/file/d/161vyyEJzabLmquOqiYrkryY57ovgnmYX/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-physics-electricity-2027",
+              "name": "تأسيس الكهرباء 2027",
+              "url": "https://drive.google.com/file/d/1klX62R_L2_Sx_OejMcUipb_CvxDL7vnT/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-physics-electronics-fields",
+              "name": "اساسيات الإلكترون والمجالات الكهربائية",
+              "url": "https://drive.google.com/file/d/1PW4Qo0YyW4ss9KwZFlhDCm9ZVrvFFgfz/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-physics-area-volume-rules",
+              "name": "ملخص لقواعد المساحة والحجوم",
+              "url": "https://drive.google.com/file/d/1ZUHtqoTY1mXdiPaH2yEnqJkXz9Ct9qg3/view?usp=drivesdk"
             }
           ]
         },
@@ -38,9 +68,92 @@
           "name": "الكيمياء",
           "files": [
             {
-              "id": "scientific-chemistry-lessons-1",
-              "name": "دروس الكيمياء كاملة",
-              "url": "https://ah-0.github.io/aqb-content/files/lessons/scientific/chemistry/complete.pdf"
+              "id": "scientific-chemistry-foundation-2027",
+              "name": "تأسيس وملخص الكيمياء 2027",
+              "url": "https://drive.google.com/file/d/1qibiN9kbihNgId3zgGNVD1CcHs26PEsQ/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-chemistry-element-symbols",
+              "name": "رموز العناصر الكيميائية وتكافؤاتها",
+              "url": "https://drive.google.com/file/d/1F-374k9KYFba6bmRMdAqOj_tkx0B4SPl/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-chemistry-formulas-symbols",
+              "name": "الصيغ والرموز الكيميائية الواجب حفظها",
+              "url": "https://drive.google.com/file/d/1tj4YbjCMHrWEqjiktQp1-1127ewlFTId/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "arabic",
+          "name": "اللغة العربية",
+          "files": [
+            {
+              "id": "scientific-arabic-foundation-2027",
+              "name": "تأسيس اللغة العربية 2027",
+              "url": "https://drive.google.com/file/d/1co3eZUKbzFhomEQCU2yKX__3TvcXrlWM/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-arabic-emotion-style-doctrine",
+              "name": "العاطفة النمط المذهب",
+              "url": "https://drive.google.com/file/d/1q2zp4l8ZGV-IjpN-ifl9eq8XeyWpDcJa/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-arabic-artistic-image-functions",
+              "name": "وظائف الصورة الفنية",
+              "url": "https://drive.google.com/file/d/13VRSdKWTFwn4OfJ5HFeYwcAeGlP1hTqo/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-arabic-words-structures-semantics",
+              "name": "دلالات الألفاظ والتراكيب في اللغة العربية",
+              "url": "https://drive.google.com/file/d/1tx9HYVJg94IWOlBgGY_kXklTkdV9trqv/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "english",
+          "name": "اللغة الإنجليزية",
+          "files": [
+            {
+              "id": "scientific-english-foundation-2027",
+              "name": "تأسيس اللغة الإنكليزية 2027",
+              "url": "https://drive.google.com/file/d/1MKtn9aouGrLG3Ujf3Q9ZGUgn-bX54nnW/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-english-irregular-verbs",
+              "name": "الافعال الشاذة",
+              "url": "https://drive.google.com/file/d/1qRLC7JAVIqgYId65oQdV79aNaU1dsHBE/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-english-translation-bank",
+              "name": "بنك الترجمة",
+              "url": "https://drive.google.com/file/d/1g5SrAVi6dGXb0bEXuLTwtV4LWsct6B0K/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-english-personal-pronouns",
+              "name": "الضمائر الشخصية",
+              "url": "https://drive.google.com/file/d/1rSRlPKZeUbUUP0pIcXbUku_aEazb6e20/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "science",
+          "name": "العلوم",
+          "files": [
+            {
+              "id": "scientific-science-neurology-terms",
+              "name": "كافة المصطلحات العلمية في بحث العصبية",
+              "url": "https://drive.google.com/file/d/1mqyWGJP3JF6lDwgzjlXuanbm6h4V4C0j/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-science-neurology-explanations",
+              "name": "كافة التفاسير في بحث العصبية",
+              "url": "https://drive.google.com/file/d/1pUEgTLSWzx4FysdU9-B0-7JJOrIAjmj5/view?usp=drivesdk"
+            },
+            {
+              "id": "scientific-science-rank-questions",
+              "name": "الدليل المتكامل لأسئلة رتب",
+              "url": "https://drive.google.com/file/d/1tka5lMaVCrN-3CNPMB1YlsGQbzvwHuKJ/view?usp=drivesdk"
             }
           ]
         }
@@ -55,33 +168,62 @@
           "name": "اللغة العربية",
           "files": [
             {
-              "id": "literary-arabic-summary-1",
-              "name": "ملخص اللغة العربية",
-              "url": "https://ah-0.github.io/aqb-content/files/summaries/literary/arabic/summary.pdf"
+              "id": "literary-arabic-foundation-2027",
+              "name": "تأسيس اللغة العربية 2027",
+              "url": "https://drive.google.com/file/d/1co3eZUKbzFhomEQCU2yKX__3TvcXrlWM/view?usp=drivesdk"
+            },
+            {
+              "id": "literary-arabic-emotion-style-doctrine",
+              "name": "العاطفة النمط المذهب",
+              "url": "https://drive.google.com/file/d/1q2zp4l8ZGV-IjpN-ifl9eq8XeyWpDcJa/view?usp=drivesdk"
+            },
+            {
+              "id": "literary-arabic-artistic-image-functions",
+              "name": "وظائف الصورة الفنية",
+              "url": "https://drive.google.com/file/d/13VRSdKWTFwn4OfJ5HFeYwcAeGlP1hTqo/view?usp=drivesdk"
+            },
+            {
+              "id": "literary-arabic-words-structures-semantics",
+              "name": "دلالات الألفاظ والتراكيب في اللغة العربية",
+              "url": "https://drive.google.com/file/d/1tx9HYVJg94IWOlBgGY_kXklTkdV9trqv/view?usp=drivesdk"
+            }
+          ]
+        },
+        {
+          "id": "english",
+          "name": "اللغة الإنجليزية",
+          "files": [
+            {
+              "id": "literary-english-foundation-2027",
+              "name": "تأسيس اللغة الإنكليزية 2027",
+              "url": "https://drive.google.com/file/d/1MKtn9aouGrLG3Ujf3Q9ZGUgn-bX54nnW/view?usp=drivesdk"
+            },
+            {
+              "id": "literary-english-irregular-verbs",
+              "name": "الافعال الشاذة",
+              "url": "https://drive.google.com/file/d/1qRLC7JAVIqgYId65oQdV79aNaU1dsHBE/view?usp=drivesdk"
+            },
+            {
+              "id": "literary-english-translation-bank",
+              "name": "بنك الترجمة",
+              "url": "https://drive.google.com/file/d/1g5SrAVi6dGXb0bEXuLTwtV4LWsct6B0K/view?usp=drivesdk"
+            },
+            {
+              "id": "literary-english-personal-pronouns",
+              "name": "الضمائر الشخصية",
+              "url": "https://drive.google.com/file/d/1rSRlPKZeUbUUP0pIcXbUku_aEazb6e20/view?usp=drivesdk"
             }
           ]
         },
         {
           "id": "history",
           "name": "التاريخ",
-          "files": [
-            {
-              "id": "literary-history-lessons-1",
-              "name": "دروس التاريخ كاملة",
-              "url": "https://ah-0.github.io/aqb-content/files/lessons/literary/history/complete.pdf"
-            }
-          ]
+          "files": []
         },
         {
           "id": "geography",
           "name": "الجغرافيا",
-          "files": [
-            {
-              "id": "literary-geography-summary-1",
-              "name": "ملخص الجغرافيا",
-              "url": "https://ah-0.github.io/aqb-content/files/summaries/literary/geography/summary.pdf"
-            }
-          ]
+          "files": []
         }
       ]
     }
