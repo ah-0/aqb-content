@@ -1,120 +1,22 @@
 [
   {
-    "id": "scientific-2024-1",
-    "name": "امتحان وزارة التربية - الفرع العلمي 2024 - الدورة الأولى",
-    "url": "https://drive.google.com/drive/folders/1TEMPLATE_SCIENTIFIC_2024_1",
-    "year": "2024",
+    "id": "scientific-2027-sample",
+    "name": "نماذج استرشادية بكالوريا علمي 2027",
+    "url": "https://drive.google.com/file/d/1lVR2yzTOgVaa37yToCFsPX4cIh09id50/view?usp=drivesdk",
+    "year": "2027",
     "branch": "scientific",
-    "subject": "الرياضيات",
-    "description": "امتحان وزارة التربية للفرع العلمي مع الحلول النموذجية",
+    "subject": "نماذج استرشادية",
+    "description": "نماذج استرشادية للبكالوريا العلمي لعام 2027",
     "isNew": true
   },
   {
-    "id": "scientific-2024-2",
-    "name": "امتحان وزارة التربية - الفرع العلمي 2024 - الدورة الثانية",
-    "url": "https://drive.google.com/drive/folders/1TEMPLATE_SCIENTIFIC_2024_2",
-    "year": "2024",
-    "branch": "scientific",
-    "subject": "الفيزياء",
-    "description": "امتحان وزارة التربية للفرع العلمي مع الحلول النموذجية"
-  },
-  {
-    "id": "literary-2024-1",
-    "name": "امتحان وزارة التربية - الفرع الأدبي 2024 - الدورة الأولى",
-    "url": "https://drive.google.com/drive/folders/1TEMPLATE_LITERARY_2024_1",
-    "year": "2024",
+    "id": "literary-2027-sample",
+    "name": "نماذج استرشادية بكالوريا ادبي 2027",
+    "url": "https://drive.google.com/file/d/1UsjekazWHlCpP8O_7BTeIbJUmWvkwart/view?usp=drivesdk",
+    "year": "2027",
     "branch": "literary",
-    "subject": "التاريخ",
-    "description": "امتحان وزارة التربية للفرع الأدبي مع الحلول النموذجية",
+    "subject": "نماذج استرشادية",
+    "description": "نماذج استرشادية للبكالوريا الأدبي لعام 2027",
     "isNew": true
-  },
-  {
-    "id": "literary-2024-2",
-    "name": "امتحان وزارة التربية - الفرع الأدبي 2024 - الدورة الثانية",
-    "url": "https://drive.google.com/drive/folders/1TEMPLATE_LITERARY_2024_2",
-    "year": "2024",
-    "branch": "literary",
-    "subject": "الجغرافيا",
-    "description": "امتحان وزارة التربية للفرع الأدبي مع الحلول النموذجية"
-  },
-  {
-    "id": "scientific-2023-1",
-    "name": "امتحان وزارة التربية - الفرع العلمي 2023 - الدورة الأولى",
-    "url": "https://drive.google.com/drive/folders/1TEMPLATE_SCIENTIFIC_2023_1",
-    "year": "2023",
-    "branch": "scientific",
-    "subject": "الكيمياء",
-    "description": "امتحان وزارة التربية للفرع العلمي مع الحلول النموذجية"
-  },
-  {
-    "id": "scientific-2023-2",
-    "name": "امتحان وزارة التربية - الفرع العلمي 2023 - الدورة الثانية",
-    "url": "https://drive.google.com/drive/folders/1TEMPLATE_SCIENTIFIC_2023_2",
-    "year": "2023",
-    "branch": "scientific",
-    "subject": "البيولوجيا",
-    "description": "امتحان وزارة التربية للفرع العلمي مع الحلول النموذجية"
-  },
-  {
-    "id": "literary-2023-1",
-    "name": "امتحان وزارة التربية - الفرع الأدبي 2023 - الدورة الأولى",
-    "url": "https://drive.google.com/drive/folders/1TEMPLATE_LITERARY_2023_1",
-    "year": "2023",
-    "branch": "literary",
-    "subject": "الفلسفة",
-    "description": "امتحان وزارة التربية للفرع الأدبي مع الحلول النموذجية"
-  },
-  {
-    "id": "literary-2023-2",
-    "name": "امتحان وزارة التربية - الفرع الأدبي 2023 - الدورة الثانية",
-    "url": "https://drive.google.com/drive/folders/1TEMPLATE_LITERARY_2023_2",
-    "year": "2023",
-    "branch": "literary",
-    "subject": "اللغة العربية",
-    "description": "امتحان وزارة التربية للفرع الأدبي مع الحلول النموذجية"
-  },
-  {
-    "id": "scientific-2022-1",
-    "name": "امتحان وزارة التربية - الفرع العلمي 2022 - الدورة الأولى",
-    "url": "https://drive.google.com/drive/folders/1TEMPLATE_SCIENTIFIC_2022_1",
-    "year": "2022",
-    "branch": "scientific",
-    "subject": "الرياضيات",
-    "description": "امتحان وزارة التربية للفرع العلمي مع الحلول النموذجية"
-  },
-  {
-    "id": "scientific-2022-2",
-    "name": "امتحان وزارة التربية - الفرع العلمي 2022 - الدورة الثانية",
-    "url": "https://drive.google.com/drive/folders/1TEMPLATE_SCIENTIFIC_2022_2",
-    "year": "2022",
-    "branch": "scientific",
-    "subject": "الفيزياء",
-    "description": "امتحان وزارة التربية للفرع العلمي مع الحلول النموذجية"
-  },
-  {
-    "id": "literary-2022-1",
-    "name": "امتحان وزارة التربية - الفرع الأدبي 2022 - الدورة الأولى",
-    "url": "https://drive.google.com/drive/folders/1TEMPLATE_LITERARY_2022_1",
-    "year": "2022",
-    "branch": "literary",
-    "subject": "التاريخ",
-    "description": "امتحان وزارة التربية للفرع الأدبي مع الحلول النموذجية"
-  },
-  {
-    "id": "all-2024",
-    "name": "مجموعة امتحانات وزارية - جميع الفروع 2024",
-    "url": "https://drive.google.com/drive/folders/1TEMPLATE_ALL_2024",
-    "year": "2024",
-    "branch": "all",
-    "description": "مجموعة شاملة من امتحانات وزارة التربية لجميع الفروع",
-    "isNew": true
-  },
-  {
-    "id": "all-2023",
-    "name": "مجموعة امتحانات وزارية - جميع الفروع 2023",
-    "url": "https://drive.google.com/drive/folders/1TEMPLATE_ALL_2023",
-    "year": "2023",
-    "branch": "all",
-    "description": "مجموعة شاملة من امتحانات وزارة التربية لجميع الفروع"
   }
 ]
