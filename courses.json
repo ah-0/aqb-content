@@ -1,69 +1,54 @@
 {
   "items": [
     {
-      "id": "cey",
-      "name": "اسئلة دورات الكيمياء",
-      "url": "https://drive.google.com/drive/folders/1aUWVLF_VeBnCdEmKNzhhvgLkyI48x8bP"
+      "id": "math",
+      "name": "دورات رياضيات",
+      "url": "https://drive.google.com/file/d/1BHuZN7CBBhB_T9NipEDag91zG28fBsOO/view?usp=drivesdk"
     },
     {
       "id": "phy",
-      "name": "اسئلة دورات الفيزياء",
-      "url": "https://drive.google.com/drive/folders/1rZ0IQuRIGbqsBt221_OqQ2Luy8hoEFOu"
+      "name": "دورات فيزياء",
+      "url": "https://drive.google.com/file/d/182z8ln4Kb3yLP4baEpz9sqYSsT1StB-D/view?usp=drivesdk"
+    },
+    {
+      "id": "cey",
+      "name": "دورات كيمياء",
+      "url": "https://drive.google.com/file/d/18RHxQNsoBJr-5whNtZ1aAbVNQciIh_So/view?usp=drivesdk"
     },
     {
       "id": "bey",
-      "name": "اسئلة دورات العلوم",
-      "url": "https://drive.google.com/drive/folders/1VK-hTRpROvjI9V8dfbdZCjPhUBO8q4VO"
-    },
-    {
-      "id": "ara",
-      "name": "اسئلة دورات العربي",
-      "url": "https://drive.google.com/drive/folders/1x_eO_WmUDPsOFhe3g4PkpjxzzHk5awGq"
-    },
-    {
-      "id": "math",
-      "name": "اسئلة دورات الرياضيات",
-      "url": "https://drive.google.com/drive/folders/1se5xM8hMN68bfWNW5uutxznwKGvAQ9ev"
-    },
-    {
-      "id": "reg",
-      "name": "اسئلة دورات الديانة",
-      "url": "https://drive.google.com/drive/folders/14w9Gxc6_8aV4-wHsdhJEkTyzati9irkJ"
+      "name": "دورات علوم",
+      "url": "https://drive.google.com/file/d/1BYQC4Ajch96cTia8I5s80XAMAN_Z66at/view?usp=drivesdk"
     },
     {
       "id": "ing",
-      "name": "اسئلة دورات الإنكليزي",
-      "url": "https://drive.google.com/drive/folders/15R7-LyleyHLdmcimWpg_ILQI374MQMTN"
+      "name": "دورات اللغة الإنجليزية",
+      "url": "https://drive.google.com/file/d/16YJpcCOUB1Aieo1Vsno2goHlN3XpXVQP/view?usp=drivesdk"
     },
     {
-      "id": "mgalis_2019",
-      "name": "دورات مجالس 2019",
-      "url": "https://drive.google.com/drive/folders/19eoe8vBMcIZI-WdyfnISHAx_Hpt-dXh9"
+      "id": "fr",
+      "name": "دورات فرنسي",
+      "url": "https://drive.google.com/file/d/1yrTgSL_4BPBNT2x9HdARMnlAgRUpJESj/view?usp=drivesdk"
     },
     {
-      "id": "mgalis_2020",
-      "name": "دورات مجالس 2020",
-      "url": "https://drive.google.com/drive/folders/19e8AZAIMQkxjlzmPRzB1N6maaBPz_uJ1"
+      "id": "ara",
+      "name": "دورات اللغة العربية",
+      "url": "https://drive.google.com/file/d/1JcqJKYnoEPtgHF2799l8ljcWhaaa3Ff7/view?usp=drivesdk"
     },
     {
-      "id": "mgalis_2022",
-      "name": "دورات مجالس 2022",
-      "url": "https://drive.google.com/drive/folders/19l5wnUfYh0AdGuZaImY-SdroiRIxOMfv"
+      "id": "his",
+      "name": "دورات تاريخ",
+      "url": "https://drive.google.com/file/d/1eqIYt2sEmcQ7sQB9NAIbTpsUZnZS_Zz0/view?usp=drivesdk"
     },
     {
-      "id": "mgalis_2023",
-      "name": "دورات مجالس 2023",
-      "url": "https://drive.google.com/drive/folders/19vfUPcBtieWVyIyj1e784x1vGUX4uy0S"
+      "id": "geo",
+      "name": "دورات جغرافيا",
+      "url": "https://drive.google.com/file/d/1fzTX2tsC_X35kLkz_QKHQMHwE048motd/view?usp=drivesdk"
     },
     {
-      "id": "mgalis_2024",
-      "name": "دورات مجالس 2024",
-      "url": "https://drive.google.com/drive/folders/19vjpHycVicEFMD2UmefTj8H9kHU34sFH"
-    },
-    {
-      "id": "mgalis_2025",
-      "name": "دورات مجالس 2025",
-      "url": "https://drive.google.com/drive/folders/19x1t6eq3MGdmQE4HcK_SHJ08FCQPU2Mg"
+      "id": "phi",
+      "name": "دورات فلسفة",
+      "url": "https://drive.google.com/file/d/1XBr71YTlwnKKk1rLzEq2xPOoZxH6TxWM/view?usp=drivesdk"
     }
   ]
 }
