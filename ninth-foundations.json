@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-20",
+  "lastUpdated": "2026-08-24",
   "categories": [
     {
       "id": "mathematics",
       "name": "الرياضيات",
       "files": [
         {
-          "id": "math-foundation-1",
-          "name": "تأسيس وأفكار في الرياضيات",
-          "url": "https://example.com/ninth/foundations/mathematics-1.pdf"
+          "id": "math-foundation-2027",
+          "name": "نوطة تأسيس رياضيات 2027",
+          "url": "https://drive.google.com/file/d/1AMmk9aIDc1gCuP6IhLqFn_GpjyqOMHIa/view?usp=drivesdk"
         }
       ]
     },
     {
-      "id": "science",
-      "name": "العلوم",
+      "id": "chemistry",
+      "name": "الكيمياء",
       "files": [
         {
-          "id": "science-foundation-1",
-          "name": "تأسيس وأفكار في العلوم",
-          "url": "https://example.com/ninth/foundations/science-1.pdf"
+          "id": "chemistry-foundation-2027",
+          "name": "نوطة تأسيس كيمياء 2027",
+          "url": "https://drive.google.com/file/d/1yvgH3nwN_gZbKoyF7K0tLfezKCi1xPX7/view?usp=drivesdk"
         }
       ]
     },
@@ -29,9 +29,31 @@
       "name": "اللغة العربية",
       "files": [
         {
-          "id": "arabic-foundation-1",
-          "name": "تأسيس وأفكار في اللغة العربية",
-          "url": "https://example.com/ninth/foundations/arabic-1.pdf"
+          "id": "arabic-foundation-2027",
+          "name": "نوطة تأسيس اللغة العربية 2027",
+          "url": "https://drive.google.com/file/d/12scDE0SIAY3R7RnTXDornPrLIMFf1G-P/view?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "name": "اللغة الإنجليزية",
+      "files": [
+        {
+          "id": "english-foundation-2027",
+          "name": "نوطة تأسيس اللغة الإنكليزية 2027",
+          "url": "https://drive.google.com/file/d/1X_mZV_7xJ4nqzAb24j-lincbx5ZnpwrW/view?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "id": "french",
+      "name": "اللغة الفرنسية",
+      "files": [
+        {
+          "id": "french-foundation-2027",
+          "name": "نوطة تأسيس اللغة الفرنسية 2027",
+          "url": "https://drive.google.com/file/d/1ne_LVr1Ixs8egHLSkm07pSsstW4OTLv8/view?usp=drivesdk"
         }
       ]
     }
