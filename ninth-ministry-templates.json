@@ -7,9 +7,20 @@
       "name": "الرياضيات",
       "files": [
         {
-          "id": "math-template-2026",
+          "id": "math-2026",
           "name": "نموذج وزاري في الرياضيات 2026",
-          "url": "https://example.com/ninth/ministry/mathematics-2026.pdf"
+          "url": "https://drive.google.com/file/d/1QEKWtzjclDfuRFEDg7fLlfXW3Qt0Hjnh/view?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "id": "physics-chemistry",
+      "name": "الفيزياء والكيمياء",
+      "files": [
+        {
+          "id": "physics-chemistry-2026",
+          "name": "نموذج وزاري في الفيزياء والكيمياء 2026",
+          "url": "https://drive.google.com/file/d/15RTHg_M4Y71D-p0fGp07kmsQqH_pxpMo/view?usp=drivesdk"
         }
       ]
     },
@@ -18,9 +29,9 @@
       "name": "العلوم",
       "files": [
         {
-          "id": "science-template-2026",
+          "id": "science-2026",
           "name": "نموذج وزاري في العلوم 2026",
-          "url": "https://example.com/ninth/ministry/science-2026.pdf"
+          "url": "https://drive.google.com/file/d/1KgWj8LtsHQk80NLVj0TzCNPmMLC1AwXv/view?usp=drivesdk"
         }
       ]
     },
@@ -29,9 +40,75 @@
       "name": "اللغة العربية",
       "files": [
         {
-          "id": "arabic-template-2026",
+          "id": "arabic-2026",
           "name": "نموذج وزاري في اللغة العربية 2026",
-          "url": "https://example.com/ninth/ministry/arabic-2026.pdf"
+          "url": "https://drive.google.com/file/d/196-RlgfJtTNs03OsT58b3PvP_M_c1oic/view?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "id": "french",
+      "name": "اللغة الفرنسية",
+      "files": [
+        {
+          "id": "french-2026",
+          "name": "نموذج وزاري في اللغة الفرنسية 2026",
+          "url": "https://drive.google.com/file/d/1UMacnCEcM2NzkJqJxRJgJhqilooYfpPP/view?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "name": "اللغة الإنجليزية",
+      "files": [
+        {
+          "id": "english-2026",
+          "name": "نموذج وزاري في اللغة الإنجليزية 2026",
+          "url": "https://drive.google.com/file/d/1ceVd0Ai9BurU6WBRATe-2Z9VDyLrJans/view?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "id": "geography",
+      "name": "الجغرافيا",
+      "files": [
+        {
+          "id": "geography-2026",
+          "name": "نموذج وزاري في الجغرافيا 2026",
+          "url": "https://drive.google.com/file/d/1ZUSu1xdxIJahzmDOf1wcDXofZl1DhM3L/view?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "id": "christian-education",
+      "name": "التربية المسيحية",
+      "files": [
+        {
+          "id": "christian-education-2026",
+          "name": "نموذج وزاري في التربية المسيحية 2026",
+          "url": "https://drive.google.com/file/d/1hESbmPo3e22E8C5OT44ZkovouLHbSpB_/view?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "id": "islamic-education",
+      "name": "التربية الدينية",
+      "files": [
+        {
+          "id": "islamic-education-2026",
+          "name": "نموذج وزاري في التربية الدينية 2026",
+          "url": "https://drive.google.com/file/d/1ifHASnRxvWafCSFtQw-gigmw8mBgbdg5/view?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "التاريخ",
+      "files": [
+        {
+          "id": "history-2026",
+          "name": "نموذج وزاري في التاريخ 2026",
+          "url": "https://drive.google.com/file/d/1fyewhnv-SCuKrSyz3KWFwtNiNwyRg7_9/view?usp=drivesdk"
         }
       ]
     }
